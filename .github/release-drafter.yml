@@ -38,12 +38,12 @@ autolabeler:
       - '*.md'
     branch:
       - '/docs{0,1}\/.+/'
-  - label: 'Added'
+  - label: 'bug'
     branch:
       - '/fix\/.+/'
     title:
       - '/fix/i'
-  - label: 'Added'
+  - label: 'duplicate'
     branch:
       - '/feature\/.+/'
     body:
