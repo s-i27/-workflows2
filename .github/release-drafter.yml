@@ -40,12 +40,14 @@ autolabeler:
       - '/docs{0,1}\/.+/'
   - label: 'bug'
     branch:
+      # fix/222
       - '/fix\/.+/'
     title:
       # fix/数値
       - '/fix/i'
   - label: 'duplicate'
     branch:
+      # feature/222
       - '/feature\/.+/'
     body:
       - '/JIRA-[0-9]{1,4}/'
