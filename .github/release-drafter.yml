@@ -36,7 +36,7 @@ autolabeler:
   - label: Added
     branch:
       - '/^feat(ure)?[/-].+/'
-  - label: bug
+  - label: Added
     branch:
       - '/^fix[/-].+/'
   - label: chore
