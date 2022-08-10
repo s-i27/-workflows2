@@ -1,3 +1,4 @@
+
 changelog:
   exclude:
     labels:
@@ -9,7 +10,7 @@ changelog:
       labels:
         - Update-Major
         - breaking-change
-    - title: Exciting New Features 🎉
+    - title: Exciting New Featuresaa 🎉
       labels:
         - Update-Minor
         - enhancement
