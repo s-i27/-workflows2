@@ -7,11 +7,11 @@ changelog:
   categories:
     - title: Breaking Changes 🛠
       labels:
-        - Semver-Major
+        - Update-Major
         - breaking-change
     - title: Exciting New Features 🎉
       labels:
-        - Semver-Minor
+        - Update-Minor
         - enhancement
     - title: Other Changes
       labels:
