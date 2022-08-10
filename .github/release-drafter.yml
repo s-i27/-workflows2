@@ -42,6 +42,7 @@ autolabeler:
     branch:
       - '/fix\/.+/'
     title:
+      # fix/数値
       - '/fix/i'
   - label: 'duplicate'
     branch:
