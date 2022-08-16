@@ -20,6 +20,9 @@
 #     branch:
 #       - '/(enhancement|improve)[/-].+/'
 
+# ref : 正規表現
+# https://murashun.jp/article/programming/regular-expression.html
+
 # Added
 # Add new features.
 # Changed
@@ -33,23 +36,26 @@
 # Security 
 
 autolabeler:
+# Added
   - label: 'Added'
     files:
       - '*.md'
     branch:
       - '/docs{0,1}\/.+/'
-  - label: 'bug'
+# Changed
+  - label: 'Changed'
     branch:
-      # fix/222
+      # fix/3桁以上の文字列
       - '/fix\/.+/'
     title:
-      # fix/数値
+      # fix/文字や数値(大文字と小文字を区別しません。)
       - '/fix/i'
   - label: 'duplicate'
     branch:
-      # feature/222
+      # feature/3桁以上の文字列
       - '/feature\/.+/'
     body:
+      # JIRA- 1桁の全角数字 or 1 ～ 4 桁の半角数字
       - '/JIRA-[0-9]{1,4}/'
 
 name-template: 'v$NEXT_PATCH_VERSION'
