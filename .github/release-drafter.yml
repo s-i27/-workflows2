@@ -81,6 +81,9 @@ categories:
     labels:
       - 'refactor'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+
+footer:
 template: |
   ## Changes
   $CHANGES
+- labels: 'Added'
