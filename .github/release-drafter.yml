@@ -41,7 +41,7 @@ autolabeler:
     files:
       - '*.md'
     branch:
-      - '/docs{0,1}\/.+/'
+      - '/issue-[0-9]{1,4}/'
 # Changed
   - label: 'Changed'
     branch:
@@ -57,6 +57,9 @@ autolabeler:
     body:
       # JIRA- 1桁の全角数字 or 1 ～ 4 桁の半角数字
       - '/JIRA-[0-9]{1,4}/'
+
+references:
+  - master
 
 name-template: 'v$NEXT_PATCH_VERSION'
 tag-template: 'v$NEXT_PATCH_VERSION'
@@ -80,8 +83,9 @@ categories:
   - title: 'all'
     labels:
       - 'refactor'
-change-template: '- $TITLE @$AUTHOR (#$NUMBER) $REPOSITORY'
-
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+exclude-labels:
+  - 'exclude from changelog'
 template: |
   ## Enterprise Server
-  $CHANGES $REPOSITORY
+  $CHANGES
