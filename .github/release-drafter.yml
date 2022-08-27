@@ -82,5 +82,4 @@ template: |
   ## Changes
   $CHANGES
 
-filter-by-commitish: master
 commitish: master
