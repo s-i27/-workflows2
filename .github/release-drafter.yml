@@ -77,12 +77,13 @@ categories:
   - title: 'Refactor'
     labels:
       - 'refactor'
+  - title: 'all'
+    labels:
+      - 'refactor'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+
+footer:
 template: |
   ## Changes
-  $CONTRIBUTORS
-  $PREVIOUS_TAG
-  $REPOSITORY
-  $OWNER
-
-commitish: master
+  $CHANGES
+- labels: 'Added'
