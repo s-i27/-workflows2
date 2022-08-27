@@ -38,8 +38,8 @@
 autolabeler:
 # Added
   - label: 'Added'
-    files:
-      - '*.md'
+    # files:
+    #   - '*.md'
     branch:
       - '/issue-[0-9]{1,4}/'
 # Changed
