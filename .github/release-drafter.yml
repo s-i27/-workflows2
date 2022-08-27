@@ -80,9 +80,9 @@ categories:
   - title: 'all'
     labels:
       - 'refactor'
-change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+change-template: '- $TITLE @$AUTHOR (#$NUMBER) $REPOSITORY'
 
 footer:
 template: |
-  ## Changes
+  ## Enterprise Server
   $CHANGES
