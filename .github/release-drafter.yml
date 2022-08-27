@@ -78,10 +78,8 @@ categories:
     labels:
       - 'refactor'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
-template: |
-  ## Changes
-  $CHANGES
-include-labels:
-  - 'app-foo'
+# template: |
+#   ## Changes
+#   $CHANGES
 
 commitish: master
