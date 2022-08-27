@@ -63,7 +63,7 @@ tag-template: 'v$NEXT_PATCH_VERSION'
 categories:
   - title: 'Breaking change'
     labels:
-      - 'Breaking Change'
+      - 'bug'
   - title: 'Features'
     labels:
       - 'feature'
