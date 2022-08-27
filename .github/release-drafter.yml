@@ -79,7 +79,7 @@ categories:
       - 'refactor'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
-#   ## Changes
+  ## Changes
 #   $CHANGES
 
 commitish: master
