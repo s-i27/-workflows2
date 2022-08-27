@@ -78,7 +78,7 @@ categories:
     labels:
       - 'refactor'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
-# template: |
+template: |
 #   ## Changes
 #   $CHANGES
 
