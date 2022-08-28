@@ -1,0 +1,72 @@
+@startuml
+
+skinparam monochrome false
+
+'Icon : https://github.com/tupadr3/plantuml-icon-font-sprites
+' https://fontawesome.com/icons/slack?s=brands
+!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.0.0
+!includeurl ICONURL/common.puml
+!includeurl ICONURL/font-awesome/amazon.puml
+!includeurl ICONURL/font-awesome/android.puml
+!includeurl ICONURL/font-awesome/apple.puml
+!includeurl ICONURL/font-awesome/chrome.puml
+!includeurl ICONURL/font-awesome/facebook_square.puml
+!includeurl ICONURL/font-awesome/google.puml
+
+!includeurl ICONURL/font-awesome-5/amazon_pay.puml
+!includeurl ICONURL/font-awesome-5/app_store_ios.puml
+!includeurl ICONURL/font-awesome-5/aws.puml
+!includeurl ICONURL/font-awesome-5/apple_pay.puml
+!includeurl ICONURL/font-awesome-5/facebook_messenger.puml
+!includeurl ICONURL/font-awesome-5/google_drive.puml
+!includeurl ICONURL/font-awesome-5/google_play.puml
+!includeurl ICONURL/font-awesome-5/instagram.puml
+!includeurl ICONURL/font-awesome-5/itunes.puml
+
+!includeurl ICONURL/font-awesome-5/github.puml
+
+!includeurl ICONURL/font-awesome-5/slack.puml
+
+
+!includeurl ICONURL/devicons/mysql.puml
+!includeurl ICONURL/font-awesome/database.puml
+!includeurl ICONURL/font-awesome-5/database.puml
+
+FA5_SLACK(slack, Slack) #White {
+}
+
+
+FA5_GITHUB(amazon, github) #White {
+    DEV_MYSQL(db4,label of db4,database,red) #SkyBlue
+}
+
+FA_AMAZON(amazon) #White {
+    FA5_AMAZON_PAY(amazonpay) #White
+    FA5_AWS(aws) #White
+}
+
+FA_FACEBOOK_SQUARE(fb) #White {
+    FA5_FACEBOOK_MESSENGER(mes) #White
+    FA5_INSTAGRAM(insta) #White
+}
+
+FA_APPLE(apple) #White {
+    FA5_APP_STORE_IOS(appstore) #White
+    FA5_APPLE_PAY(apppay) #White
+    FA5_ITUNES(itunes) #White
+}
+
+FA_GOOGLE(google) #White {
+    FA_ANDROID(android) #White
+    FA_CHROME(chrome) #White
+    FA5_GOOGLE_DRIVE(drive) #White
+    FA5_GOOGLE_PLAY(play) #White
+}
+
+slack --> amazon
+
+google .[hidden]r. apple
+apple .[hidden]r. fb
+fb .[hidden]r. amazon
+
+@enduml
