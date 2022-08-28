@@ -15,6 +15,9 @@ timeout-minutes で最大実行可能時間を指定
 
 ## セキュリティリスク
 permissions で GITHUB_TOKEN の権限を管理
+
 Commit hash 指定
+
 OIDC により管理する認証情報を減らす
+
 利用する Action の継続的アップデート(Dependabot)
