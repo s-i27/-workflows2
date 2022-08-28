@@ -6,4 +6,7 @@
 第三者が簡単にコメント、編集可能
 aaaaaa
 
-GitHub Actionsハードニング
+# GitHub Actionsハードニング
+https://zenn.dev/tmknom/books/github-organization-security/viewer/github-actions
+
+https://developers.cyberagent.co.jp/blog/archives/36423/#github-actions-workflow-best-practices
