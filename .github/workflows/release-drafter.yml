@@ -34,10 +34,9 @@ jobs:
       #    echo "GHE_HOST=${GITHUB_SERVER_URL##https:\/\/}" >> $GITHUB_ENV
 
       # Drafts your next Release notes as Pull Requests are merged into "master"
-      - uses: release-drafter/release-drafter@v5
+      - uses: release-drafter/release-drafter@06a49bf28488e030d35ca2ac6dbf7f408a481779
         # (Optional) specify config name to use, relative to .github/. Default: release-drafter.yml
-        with:
-          commitish: master
+        # with:
         #   config-name: my-config.yml
         #   disable-autolabeler: true
         env:
