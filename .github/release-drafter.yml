@@ -83,9 +83,15 @@ categories:
   - title: 'all'
     labels:
       - 'refactor'
+
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+
+include-labels:
+  - 'Added'
+  - 'enhancement'
 exclude-labels:
   - 'exclude from changelog'
+
 template: |
   ## Enterprise Server
   $CHANGES
