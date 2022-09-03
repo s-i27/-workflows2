@@ -1,0 +1,86 @@
+@startuml system
+
+skinparam monochrome false
+
+'Icon : https://github.com/tupadr3/plantuml-icon-font-sprites
+
+' GitHub
+!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.3.0
+!includeurl ICONURL/common.puml
+!includeurl ICONURL/devicons/github_badge.puml
+!includeurl ICONURL/devicons/git.puml
+!includeurl ICONURL/devicons/git_branch.puml
+!includeurl ICONURL/devicons/git_pull_request.puml
+!includeurl ICONURL/devicons/git_merge.puml
+'ex. DEV_GITHUB_BADGE(github, GitHub) #White {
+
+!includeurl ICONURL/font-awesome-5/github.puml
+!includeurl ICONURL/font-awesome-5/slack.puml
+'ex. FA5_SLACK(slack, Slack) #red {
+
+
+!includeurl ICONURL/devicons/mysql.puml
+!includeurl ICONURL/font-awesome/database.puml
+!includeurl ICONURL/font-awesome-5/database.puml
+
+' AWS
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v10.0/dist
+!includeurl AWSPuml/AWSCommon.puml
+!includeurl AWSPuml/General/Client.puml
+!includeurl AWSPuml/GroupIcons/Cloudalt.puml
+!includeurl AWSPuml/ApplicationIntegration/APIGateway.puml
+!includeurl AWSPuml/Compute/Lambda.puml
+!includeurl AWSPuml/Database/DynamoDB.puml
+!includeurl AWSPuml/AWSSimplified.puml
+'ex. Cloudalt(aws, AWS, AWS)
+
+' 図
+Client(clientUser, User, User client device)
+
+FA5_SLACK(slack, Slack) #red {
+}
+
+Cloudalt(aws, AWS, AWS) {
+    APIGateway(apiGateway, "API Gateway", "API Gateway")
+    Lambda(lambda, "Lambda", "Lambda")
+    DynamoDB(dynamodb, "DynamoDB", "DynamoDB")
+}
+
+DEV_GITHUB_BADGE(github, GitHub) #White {
+    component [CI/CD]Actions {
+        () "Dependabot" #gray
+    }
+    component Optimization {
+        () "Packages" #gray
+        () "Coplit" #gray
+        () "Codspace" #gray
+    }
+    component Documentation\nIdeas {
+        () "Discussions" #gray
+        () "WIKI" #gray
+        () "pages" #gray
+    }
+    component Task {
+        () "issue" #gray
+        () "projects" #gray
+    }
+
+    DEV_GIT_PULL_REQUEST(PullRequest, PullRequest) {
+        DEV_GIT_BRANCH(gitBranchFeature, OAM- or issue-#\nbranch) #White
+        DEV_GIT_BRANCH(gitBranchDevelop, develop\nbranch) #White
+        DEV_GIT_BRANCH(gitBranchMain, main\nbranch) #White
+        DEV_GIT_PULL_REQUEST(gitPRDevelop, Pull Request\nRequire 2 approves) #White
+        DEV_GIT_PULL_REQUEST(gitPRMain, Pull Request\nRequire 1 approves) #White
+    }
+}
+
+component Backlog {
+    () "Taska" #gray
+    () "WIKI" #gray
+}
+
+slack 0--down-> github
+clientUser 0--down-> gitBranchFeature : Push
+aws 0--up-> github : Push
+
+@enduml
