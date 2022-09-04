@@ -1,8 +1,19 @@
-@startuml system
+@startuml system-tools
 
-skinparam monochrome false
+
+skinparam {
+    monochrome false
+    padding 2
+}
+
+' 参考
+' https://qiita.com/irongineer/items/23fcd55830ae2de96ca8
 
 'Icon : https://github.com/tupadr3/plantuml-icon-font-sprites
+
+title System
+header テストシーケンス
+footer ページ %page% / %lastpage%
 
 ' GitHub
 !define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.3.0
@@ -18,10 +29,7 @@ skinparam monochrome false
 !includeurl ICONURL/font-awesome-5/slack.puml
 'ex. FA5_SLACK(slack, Slack) #red {
 
-
 !includeurl ICONURL/devicons/mysql.puml
-!includeurl ICONURL/font-awesome/database.puml
-!includeurl ICONURL/font-awesome-5/database.puml
 
 ' AWS
 !define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v10.0/dist
@@ -35,11 +43,6 @@ skinparam monochrome false
 'ex. Cloudalt(aws, AWS, AWS)
 
 ' 図
-Client(clientUser, User, User client device)
-
-FA5_SLACK(slack, Slack) #red {
-}
-
 Cloudalt(aws, AWS, AWS) {
     APIGateway(apiGateway, "API Gateway", "API Gateway")
     Lambda(lambda, "Lambda", "Lambda")
@@ -74,13 +77,62 @@ DEV_GITHUB_BADGE(github, GitHub) #White {
     }
 }
 
-component Backlog {
-    () "Taska" #gray
-    () "WIKI" #gray
+package "外部データベース" as ext <<Database>> {
+    DEV_MYSQL(db3,Mysql,database)
 }
 
-slack 0--down-> github
-clientUser 0--down-> gitBranchFeature : Push
-aws 0--up-> github : Push
+Client(clientUser, User, User client device){
+    FA5_SLACK(slack, Slack) #white {
+    }
+
+    rectangle Backlog {
+        () "Taska" #gray
+        () "WIKI" #gray
+    }
+
+    rectangle 設計書作成ツール {
+        frame URL設計 #White {
+            () "GoogleSheets" #gray
+        }
+        frame CRUD表 #White {
+            () "GoogleSheets" #gray
+        }
+        frame 画面設計ワイヤーフレーム #White {
+            () "Figma" #gray
+        }
+        frame DB設計ER図 #White {
+            () "dbdiagram.io" #gray
+            () "PlantUML" #gray
+        }
+        frame システム構成図 #White {
+            () "PlantUML" #gray
+            () "https://www.wakuwakubank.com/posts/850-design-uml-layout-map/" #gray
+        }
+        frame シーケンス図 #White {
+            () "PlantUML" #gray
+        }
+        frame Other #White {
+            () "その他テンプレート/https://notepm.jp/template" #gray
+        }
+    }
+
+    rectangle 開発ツール {
+        () "Tableplus" #gray
+        () "Vscode" #gray
+        () "Postman" #gray
+        () "Docker" #gray
+    }
+}
+
+' down, upのみだとマウスホイールダウンだけで確認できるので楽
+' upを使わないといけない場合はdownで表現できないか考える
+URL設計 -down- CRUD表
+URL設計 -down- 画面設計ワイヤーフレーム
+URL設計 -down- DB設計ER図
+URL設計 -down- システム構成図
+
+clientUser 0--down---> gitBranchFeature : Push
+github -down- db3
+github -down- aws
 
 @enduml
