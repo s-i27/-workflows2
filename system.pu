@@ -52,6 +52,9 @@ Cloudalt(aws, AWS, AWS) {
 DEV_GITHUB_BADGE(github, GitHub) #White {
     component [CI/CD]Actions {
         () "Dependabot" #gray
+        () "CodeQL" #gray
+        () "release-drafter" #gray
+        () "action-label-syncer" #gray
     }
     component Optimization {
         () "Packages" #gray
