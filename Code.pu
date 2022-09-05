@@ -8,8 +8,8 @@ header
 endheader
 
 * Debian
-** Ubuntu
-*** Linux Mint
+** リファクタリング
+*** 関心の分離
 *** Kubuntu
 *** Lubuntu
 *** KDE Neon
