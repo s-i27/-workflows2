@@ -7,3 +7,5 @@
 
 
 https://zenn.dev/dzeyelid/articles/77541fe1336951
+python
+https://zenn.dev/sotahi/articles/438a5b733e7331
