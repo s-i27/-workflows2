@@ -1,6 +1,5 @@
 @startuml system-tools
 
-
 skinparam {
     monochrome false
     padding 2

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="770px" preserveAspectRatio="none" style="width:1483px;height:770px;background:#FFFFFF;" version="1.1" viewBox="0 0 1483 770" width="1483px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="34.9219" style="stroke:none;stroke-width:1.0;" width="269" x="1201" y="10"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="269" x="1201" y="19.2822">　チェックリスト（MECEの最後）に対して直感を働かせる</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="230" x="1240" y="30.9229">バカの壁が入らない（考えていない部分をなくす）</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="250" x="1220" y="42.5635">頭の中にアイデアはあるがうまく引き出せないをなくす</text><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="289" x="595.5" y="50.9219"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="279" x="600.5" y="68.917">→筋道としての論理　↓言葉としての論理</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="48" x="10" y="290.2578"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="20" y="313.2529">設計</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="83" x="108" y="290.2578"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="118" y="313.2529">RDB設計</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="122" x="241" y="290.2578"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="251" y="313.2529">アンチパターン</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="716" x="413" y="93.2188"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="696" x="423" y="116.2139">主キーが設定されていないテーブルを作ってはイケナイ(レコードを一意に選択することができなくなります。)</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,111.3672 403,111.3672 L413,111.3672 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="440" x="413" y="149.5156"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="420" x="423" y="172.5107">テーブルによって同じデータでも列名が違う列を作ってはイケナイ</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,167.6641 403,167.6641 L413,167.6641 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="412" x="413" y="205.8125"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="392" x="423" y="228.8076">一つの列にカンマなどで区切り複数の値を格納してはイケナイ</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,223.9609 403,223.9609 L413,223.9609 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="412" x="413" y="262.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="392" x="423" y="285.1045">日付データを数値型や文字列型のカラムに格納してはイケナイ</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,280.2578 403,280.2578 L413,280.2578 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="367" x="413" y="318.4063"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="347" x="423" y="341.4014">BLOB型で安易にバイナリデータを格納してはイケナイ</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,336.5547 403,336.5547 L413,336.5547 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="370" x="413" y="374.7031"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="350" x="423" y="397.6982">ありとあらゆる列にインデックスを付与してはイケナイ</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,392.8516 403,392.8516 L413,392.8516 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="1058" x="413" y="431"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1038" x="423" y="453.9951">「区分」や「フラグ」という名の列名を作成してはイケナイ(必ず「○○区分」や「○○フラグ」のように何の区分なのか、何のフラグなのかを列名でしっかりと定義)</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,449.1484 403,449.1484 L413,449.1484 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="356" x="413" y="487.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="336" x="423" y="510.292">将来の拡張に備えて予め予備カラム作ってはイケナイ</text><path d="M363,308.4063 L373,308.4063 C388,308.4063 388,505.4453 403,505.4453 L413,505.4453 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M191,308.4063 L201,308.4063 C216,308.4063 216,308.4063 231,308.4063 L241,308.4063 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="80" x="241" y="346.5547"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="251" y="369.5498">命名規則</text><path d="M191,308.4063 L201,308.4063 C216,308.4063 216,364.7031 231,364.7031 L241,364.7031 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M58,308.4063 L68,308.4063 C83,308.4063 83,308.4063 98,308.4063 L108,308.4063 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="61" x="108" y="346.5547"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="118" y="369.5498">NOsql</text><path d="M58,308.4063 L68,308.4063 C83,308.4063 83,364.7031 98,364.7031 L108,364.7031 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="57" x="10" y="628.0391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="20" y="651.0342">Code</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="132" x="117" y="628.0391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="127" y="651.0342">リファクタリング</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="90" x="299" y="543.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="309" y="566.5889">関心の分離</text><path d="M249,646.1875 L259,646.1875 C274,646.1875 274,561.7422 289,561.7422 L299,561.7422 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="174" x="299" y="599.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="309" y="622.8857">クリーンアーキテクチャ</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="53" x="523" y="571.7422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="533" y="594.7373">DDD</text><path d="M473,618.0391 L483,618.0391 C498,618.0391 498,589.8906 513,589.8906 L523,589.8906 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="132" x="523" y="628.0391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="533" y="651.0342">オブジェクト指向</text><path d="M473,618.0391 L483,618.0391 C498,618.0391 498,646.1875 513,646.1875 L523,646.1875 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M249,646.1875 L259,646.1875 C274,646.1875 274,618.0391 289,618.0391 L299,618.0391 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="159" x="299" y="656.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="line-through" textLength="67" x="309" y="679.1826">Raspmbc</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="380" y="679.1826">=&gt; OSMC</text><path d="M249,646.1875 L259,646.1875 C274,646.1875 274,674.3359 289,674.3359 L299,674.3359 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="161" x="299" y="712.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="line-through" textLength="53" x="309" y="735.4795">Raspyfi</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="366" y="735.4795">=&gt; Volumio</text><path d="M249,646.1875 L259,646.1875 C274,646.1875 274,730.6328 289,730.6328 L299,730.6328 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M67,646.1875 L77,646.1875 C92,646.1875 92,646.1875 107,646.1875 L117,646.1875 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[57ce9f3c2b966449f64460bc4cb78d3b]
+@startmindmap
+title →筋道としての論理　↓言葉としての論理
+
+header
+　チェックリスト（MECEの最後）に対して直感を働かせる
+  バカの壁が入らない（考えていない部分をなくす）
+  頭の中にアイデアはあるがうまく引き出せないをなくす
+endheader
+
+* 設計
+** RDB設計 
+*** アンチパターン 
+**** 主キーが設定されていないテーブルを作ってはイケナイ(レコードを一意に選択することができなくなります。)
+**** テーブルによって同じデータでも列名が違う列を作ってはイケナイ
+**** 一つの列にカンマなどで区切り複数の値を格納してはイケナイ
+**** 日付データを数値型や文字列型のカラムに格納してはイケナイ
+**** BLOB型で安易にバイナリデータを格納してはイケナイ
+**** ありとあらゆる列にインデックスを付与してはイケナイ
+**** 「区分」や「フラグ」という名の列名を作成してはイケナイ(必ず「○○区分」や「○○フラグ」のように何の区分なのか、何のフラグなのかを列名でしっかりと定義)
+**** 将来の拡張に備えて予め予備カラム作ってはイケナイ
+' https://www.depthbomb.net/?p=6334
+
+*** 命名規則 
+
+** NOsql
+
+
+* Code
+** リファクタリング
+*** 関心の分離
+*** クリーンアーキテクチャ
+**** DDD
+**** オブジェクト指向
+
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap
+
+@startmindmap
+title →筋道としての論理　↓言葉としての論理
+
+header
+　チェックリスト（MECEの最後）に対して直感を働かせる
+  バカの壁が入らない（考えていない部分をなくす）
+  頭の中にアイデアはあるがうまく引き出せないをなくす
+endheader
+
+* 設計
+** RDB設計 
+*** アンチパターン 
+**** 主キーが設定されていないテーブルを作ってはイケナイ(レコードを一意に選択することができなくなります。)
+**** テーブルによって同じデータでも列名が違う列を作ってはイケナイ
+**** 一つの列にカンマなどで区切り複数の値を格納してはイケナイ
+**** 日付データを数値型や文字列型のカラムに格納してはイケナイ
+**** BLOB型で安易にバイナリデータを格納してはイケナイ
+**** ありとあらゆる列にインデックスを付与してはイケナイ
+**** 「区分」や「フラグ」という名の列名を作成してはイケナイ(必ず「○○区分」や「○○フラグ」のように何の区分なのか、何のフラグなのかを列名でしっかりと定義)
+**** 将来の拡張に備えて予め予備カラム作ってはイケナイ
+
+*** 命名規則 
+
+** NOsql
+
+
+* Code
+** リファクタリング
+*** 関心の分離
+*** クリーンアーキテクチャ
+**** DDD
+**** オブジェクト指向
+
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap
+
+PlantUML version 1.2022.8beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

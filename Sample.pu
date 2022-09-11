@@ -1,0 +1,22 @@
+@startmindmap
+title →筋道としての論理　↓言葉としての論理
+
+header
+　チェックリスト（MECEの最後）に対して直感を働かせる
+  バカの壁が入らない（考えていない部分をなくす）
+  頭の中にアイデアはあるがうまく引き出せないをなくす
+endheader
+
+* Debian
+** Ubuntu
+*** Linux Mint
+*** Kubuntu
+*** Lubuntu
+*** KDE Neon
+** LMDE
+** SolydXK
+** SteamOS
+** Raspbian with a very long name
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap
