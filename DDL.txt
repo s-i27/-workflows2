@@ -1,0 +1,2 @@
+CREate test 
+CREate #table_name2# 
