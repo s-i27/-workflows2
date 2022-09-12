@@ -4,7 +4,7 @@
 決定事項の経緯や背景を第三者が閲覧可能
 軽量なドキュメンテーション
 第三者が簡単にコメント、
-
+s
 
 https://zenn.dev/dzeyelid/articles/77541fe1336951
 python
