@@ -1,4 +1,5 @@
 name: Lighthouse
+on:
   pull_request:
     types: [ opened ]
 

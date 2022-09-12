@@ -18,7 +18,6 @@ for line in f:
   print(line.strip().find('entity'))
 
 f.close
-
 # With open(path) as f:
 #   s = f.read()
 #   print(type(s))
