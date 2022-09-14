@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1723px" preserveAspectRatio="none" style="width:2922px;height:1723px;background:#FFFFFF;" version="1.1" viewBox="0 0 2922 1723" width="2922px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="15.6406" style="stroke:none;stroke-width:1.0;" width="84" x="2824" y="0"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="80" x="2826" y="11.2822">テストシーケンス</text><rect fill="none" height="30.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="74" x="1417" y="21.6406"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="60" x="1424" y="41.6357">System</text><!--MD5=[c444070a69c905f8781a2e7d91c12e8c]
+cluster aws--><g id="cluster_aws"><rect fill="#FFFFFF" height="460" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:1.0;" width="337" x="1021" y="787.9375"/><image height="64" width="64" x="1157.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAADrElEQVR4Xu1YoY4UQRC9XxuNGAvm3AV1hgR1AoG7nEGewZEzKAQCgyJB4DYhwRKCX/iA5WVe9qW2qrtmbm/3mk2687KZ7a6uqldd3V0zZ8OTpyeNs9h1WugEWqMTaI1OoDU6gdboBFqjE2iNTqA1OoHWmCcwPru4en1z+/bd3fsPX75+wy/+OoHz5y+AOBdAPwRif3EW/l6/uYWJj58+4xfPxbkWGQFMhqJNqf389Vu2YYmdIOk0QIxDcKU2RBfxi+iwx7U41yIjgJnSsv7zl7A9tI0FYc/q+w87HQwlDOeKQ6DBHsyVMJ4hj1+ac3MdMgLwDFrcOl6+fKXgMeQYlW0r6fhbzRrC6tEQ/8KcyxkMuYx1yAjUEEOu1Qc9iTH9xNamu5NXEubZUsQ+BBRyJYCLKEHXsUrMBOsce7QskOF0cI7mcuxDAHAERElroh4EnvGWc9oAsYca8pxxmCEAPxAe7icCz1pxERjMLrQ7mzFmgCWseFtHpZMNE0HPJmQNGQEERhlcbJaA3LJpzQMEPRwiNy6I29bDlIfRXNzWDhkBqcMDtPNAAJTxloDSgNuAC+KOKYacG6CW7mALDZaJtRJRJaCjBvNjDIqqaZUxo4BygHzgmVZjNtEhoGsnEa4SUErYg4WIpxChPBZ5NwQaUhuDEiHheMcL8wTiWtsNZ/sVXcZbJ9Kwe3Vs5i5XYcn9UCUgb7COuoPw4Kojd1DYWsMunb2tN8Eh6OSVL0OQtxd5slxVAsNufWI9Q/xEw62PLcgcN6vNOeTKOGtrE9g6ZATGUoWI1EI/gA0An1w9rHWLW18RjTmpy841KEm2L5ERIFijA3AuWcqHA8phgse0Tacc8wT+c3QCR4MyCkiyt0DgPLyqPjKuphcpv6Mr11mBAI8LnOI10kcFK18ecYRO1eL1VyAwmIuzFQ0LOJDUf2UCw24tvbA0PyDG7bcc/qUnS1NIGHc/q0ALVBx7eyBSMMqQr6cPH6N5uYvyGQHi0nyGEBMWxlF4PzDe8psNf5m9zGdbGlrMExi2L5auRGFbTW+Yyy9OKQR/zIKXLjrUaaPDKqNWUywiQMAqfC3SUFtPL80wyYIP8nfTd0L2YAjuJhpW4Y2e+VPcvsQ9CBDjVOgWz+mHNNAr5iRtJSfhvQkIyBl+sPC+LG5YCvh9nX7BTYaI/QkITGiQgTd5hvCGQj5AuBjvPXAAAhHj9tO5RRQ7CI5C4DHRCbRGJ9AanUBrdAKt0Qm0RifQGidP4B8We3wDyhvVBQAAAABJRU5ErkJggg==" y="791.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="1187" y="868.9326"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="41" x="1169" y="887.0859">AWS</text></g><!--MD5=[46add8cf7bf384e60847f614ab2d9898]
+cluster github--><g id="cluster_github"><rect fill="#FFFFFF" height="1252" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="974" x="7" y="442.9375"/><image height="48" width="48" x="476.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACSUlEQVR4Xu2WfZECMQzFa2EtYAELWMACFrCABSxgAQtYwAIWem/aodN7+WqBm7ub2d9fSzdJ36ZJSsp/jMQLv80qKGIVFLEKinhR0OPxuFwuh8Nhu90uy5IKeMBPLOIVDNhnjGlBt9ttv99XBT4wgzH7R0wIwkcPSumBy1S2RgVdr9d2NLPAEe4c0WBI0Pl85k3mQRCOqxEL+oiayoimQBBSzVHfIzw7TxCKkeoGi/f7/XQ6hfUEA5jVcqZ1v8Y9QZgofSzMmPYKQY/HYx05+Oh7AQ84FCziVb8rHPs4MGivJKYgbNBHSaWB2WiM3W5HoRCcjZ6Ygig96XuGpqAMJTdJpiBZJZvNho3GgCOFQnA2eqILwsinEOCFe6AyFU0XhAYhf9QBG80gywhbsFFBFyTvrJGZ5iC/0GoRXZAsw3Cg+cgBa7XIvxX05pHJC3FOkKxBDF82mgHuFNDqEl3QB6diRY4iazbqgmSG0xtlJAsI4BJku4IuSF5kqUxq/6JWgYtMT7KvM11Q1pKcysFZgVRgLPsjubeQKaidGpwx1vq4OH5r8DdgIAux4fSsKSh392v1lxuorScbinBu1uwL6ku71iDlXz0+tf56rHKueIJyp6B9FvK0FKy+zdpfl4Y1fhqBoP5vtXpAKmpDpLE+DQTlcgRNE7LSjskJrXYWgqhHTMSCctEkP9qZ3dIYKyNq8qCgXPJBF5wzS0gQHJ10EqOCKmiQttmIIDzMXjhzgiqQhY92ahyvYOC3t8Urgn6UVVDEKihiFRTxBT9uOlTUEaLhAAAAAElFTkSuQmCC" y="446.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="468.5" y="507.9326">GitHub</text></g><!--MD5=[a10bcc5f47bcb75e95172d90914f8a2a]
+cluster [CI/CD]Actions--><g id="cluster_[CI/CD]Actions"><rect fill="none" height="665.5" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="436" x="505" y="545.9375"/><rect fill="none" height="10" style="stroke:#181818;stroke-width:1.0;" width="15" x="921" y="550.9375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="919" y="552.9375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="919" y="556.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="116" x="665" y="573.9326">[CI/CD]Actions</text></g><!--MD5=[9ca9c15358832ea6185f69b55ca045af]
+cluster Optimization--><g id="cluster_Optimization"><rect fill="none" height="481.5" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="217" x="264" y="545.9375"/><rect fill="none" height="10" style="stroke:#181818;stroke-width:1.0;" width="15" x="461" y="550.9375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="459" y="552.9375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="459" y="556.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="107" x="319" y="573.9326">Optimization</text></g><!--MD5=[fbf28382f8340dc55fbb387e49dd43ae]
+cluster Documentation\nIdeas--><g id="cluster_Documentation\nIdeas"><rect fill="none" height="303" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="221" x="290" y="1340.4375"/><rect fill="none" height="10" style="stroke:#181818;stroke-width:1.0;" width="15" x="491" y="1345.4375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="489" y="1347.4375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="489" y="1351.4375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="125" x="338" y="1368.4326">Documentation</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="43" x="379" y="1384.7295">Ideas</text></g><!--MD5=[996a0e22aa5fcad0a8b55c37b2fd323d]
+cluster Task--><g id="cluster_Task"><rect fill="none" height="121" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="201" x="39" y="545.9375"/><rect fill="none" height="10" style="stroke:#181818;stroke-width:1.0;" width="15" x="220" y="550.9375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="218" y="552.9375"/><rect fill="none" height="2" style="stroke:#181818;stroke-width:1.0;" width="4" x="218" y="556.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="39" x="120" y="573.9326">Task</text></g><!--MD5=[2e167e1c824456cb2ae97a42ac52bd62]
+cluster PullRequest--><g id="cluster_PullRequest"><rect fill="none" height="374" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="406" x="535" y="1288.9375"/><image height="48" width="48" x="740.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACBklEQVR4Xu2YbZECMQyGawELWMACFtYCFrBwFrCABSxgAQtY6L2zGULu7abpwvIxN31+3BylTZ6m3Z2WlL+MxA2fpgtF/Heh0+nETTNZUmi73e73e26dSZPQ9Xo9n8+Xy4W/MMAmpfRyIagMw5BurFarw+HAnW42LxdCSWCgNgplVZvyqweoCW02G0mDlCgMkmlirKD0sTZgvV4PN9D/gT3uCqE8kgOhvUaymQQ1Ph6P97gRrhCiSESapZQNlWixUXa7nQ1SwRWCh8Si+YkQ/toVbKFxe7lCeL4kEHJro5ZNZjzXCTHvCRxcIYCsEgj7AP/bNdJ3EjnB/mcE7VhW+xVA+98ME9SEsnnQLLSI1smuC+pBbw37fHgEQoAmOvliVCfaKCiJHWtX3yMWoiJ5z7A4kZDuOeGtQnl0+i6hPL457cfPCxFdKKILRXShiC4U0YUiulDE8kIUUYK2HI3zeGKkyaSG+dSEShuhZaK5KK1Sd6oJ6YlYQmDGes6fPMha0EF6YohUVKeHsNzb4Arhsizj6aoglkhjG0tEnXLrEVtv4iWukE6IBksmnPxtY4lcDchbJ1lZNVeoXqFwG8kGWrJCeWoP6W9F4ZVPc2PIMnsom41JhOsllDdXobJeuS6Ui5teevo9FD6egVAe40ILd/vHfoDCEAzEcARpmUks9Ga6UMTXCf0CDtiFolkaNnUAAAAASUVORK5CYII=" y="1292.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="96" x="692.5" y="1353.9326">PullRequest</text></g><!--MD5=[d565000a02c36ab8783818f23086a68c]
+cluster ext--><g id="cluster_ext"><path d="M1392.5,890.9375 L1517.5,890.9375 A3.75,3.75 0 0 1 1520,893.4375 L1527,917.2344 L1527.5,917.2344 A2.5,2.5 0 0 1 1530,919.7344 L1530,1040.4375 A2.5,2.5 0 0 1 1527.5,1042.9375 L1392.5,1042.9375 A2.5,2.5 0 0 1 1390,1040.4375 L1390,893.4375 A2.5,2.5 0 0 1 1392.5,890.9375 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1390" x2="1527" y1="917.2344" y2="917.2344"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="120" x="1396" y="907.9326">外部データベース</text></g><!--MD5=[7c08ff6b3f41177ab9bdc7ebd19ec352]
+cluster clientUser--><g id="cluster_clientUser"><rect fill="#FFFFFF" height="674" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:1.0;" width="1851" x="1021" y="64.9375"/><image height="64" width="64" x="1914.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAB3klEQVR4Xu2aoU/DQBTG96+hEbPMzC1TmCWoCcRcM4OsmVswKMTEzBQJAkdCgiUEv+0PKF94cHtc27024a3vyPvyia3XLt+vfde77torElcv3pCaYoC394+Hxyez3u72UeADAKJfXl2fnV8Yd3aTs/wMIIn05HyxjAFw+qltOpuXL5wRr9ab4XiCkP3BKAZAMwHgQ2gzKNQP5QxbagFu7+6xtxE/v7xSqqwhANKHgjNiFHkLgLCfHUfBmgKE/bqSGMwBlCUGcwBlicEcQFliMAdQlhjMAZQlBnMAZYnBHEBZYjAHUJYYzAGUJQZzAGWJwRxAWWIwB1CWGOy/A0xn824dVi3aAeSLJX21Y/qDuinAdrcHfX8wKv/Q6Y0YYUmmKYBZ1QLgAlEDX36yJtQFdYmKJSbISME0Mcq7AgDFkwTDcDzhq8UHgOJrrdLU0lhklPdqveGBiwggRVUA4AKZdZyVA6A5+7lJmTV6KYqc5WcA6NrlA2yaM3wDhFcN0MfRbNPoxHSfRMgYIPmR+PQAbV9MoqMMAbQdNCmYIYByxOOmIcwB/k7JlxDGTd5Hj7v1+0JmVQuA80ENGCPK00A7rh3ICgZn33xS/Ws2GsZqs8a5jx4JKqbTackBulbyAJ/bB0pxdOtKkgAAAABJRU5ErkJggg==" y="68.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="1944" y="145.9326"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="41" x="1926" y="164.0859">User</text></g><!--MD5=[586951723251309ae47f02cd063540c3]
+cluster Backlog--><g id="cluster_Backlog"><rect fill="none" height="121" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="92" x="2740" y="264.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="64" x="2754" y="281.9326">Backlog</text></g><!--MD5=[fd31b49a02abbcc63fa76fa7e41b88eb]
+cluster 設計書作成ツール--><g id="cluster_設計書作成ツール"><rect fill="none" height="505" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="1329" x="1387" y="201.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="120" x="1991.5" y="218.9326">設計書作成ツール</text></g><!--MD5=[dc7c61f5afc8ad0bd8e284d2607d9030]
+cluster URL設計--><g id="cluster_URL設計"><rect fill="#FFFFFF" height="137" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="187" x="1970" y="256.9375"/><path d="M2045,256.9375 L2045,270.2344 L2035,280.2344 L1970,280.2344 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="61" x="1975" y="272.9326">URL設計</text></g><!--MD5=[01e64b9d7753d99633e5bd1075b36e09]
+cluster 画面設計ワイヤーフレーム--><g id="cluster_画面設計ワイヤーフレーム"><rect fill="#FFFFFF" height="137" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="200" x="1525" y="537.9375"/><path d="M1719,537.9375 L1719,551.2344 L1709,561.2344 L1525,561.2344 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="180" x="1530" y="553.9326">画面設計ワイヤーフレーム</text></g><!--MD5=[a78acc0696a862da68088ed267c71ef3]
+cluster DB設計ER図--><g id="cluster_DB設計ER図"><rect fill="#FFFFFF" height="137" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="302" x="1765" y="537.9375"/><path d="M1866,537.9375 L1866,551.2344 L1856,561.2344 L1765,561.2344 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="87" x="1770" y="553.9326">DB設計ER図</text></g><!--MD5=[edcb7dbd8ae77d6c060a960cfad4af4d]
+cluster システム構成図--><g id="cluster_システム構成図"><rect fill="#FFFFFF" height="137" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="577" x="2107" y="537.9375"/><path d="M2226,537.9375 L2226,551.2344 L2216,561.2344 L2107,561.2344 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="105" x="2112" y="553.9326">システム構成図</text></g><!--MD5=[03acc2bd09302c025b81510236da02b7]
+cluster Other--><g id="cluster_Other"><rect fill="#FFFFFF" height="121" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="388" x="1550" y="264.9375"/><path d="M1610,264.9375 L1610,278.2344 L1600,288.2344 L1550,288.2344 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="1555" y="280.9326">Other</text></g><!--MD5=[29875b5bfa2863cf1a3539e957018728]
+cluster 開発ツール--><g id="cluster_開発ツール"><rect fill="none" height="402" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="227" x="1136" y="264.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="75" x="1212" y="281.9326">開発ツール</text></g><!--MD5=[2aa490132f0292e9205cf6a68f36b9e7]
+entity apiGateway--><g id="elem_apiGateway"><rect fill="#FFFFFF" height="122.9219" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:0.5;" width="139" x="1064.5" y="916.9375"/><image height="64" width="64" x="1102" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAACh0lEQVR4Xu2YwUoDMRiE+8C+gW/gE/TsxZNXPXvw5k3wFlDpQSgICh4EYR0y9Cc22WSaTXeRpgyS/Xeyma/uJtmu3Nn6X2sVl/6XOsDS6gBLqwMsrZMHeDm/3F7dxXVF6Ijucf0g1QNg7M/7p8F/NhfXsSEvdGFfXGQKRg1AGH06AD/VGIcBhNG/X7dv61vcBlMA0B0XwaWqMVSAODrr0wF4WI1RBhiLTrUCoCowcgD56FRbAOogjBwAw41FDz1tASjDyHicApAPp3iSKgKIng4geJJSwimeNgC4WaH3mwdU8NiJ7WK4+QB+Pr4gxELl6/FZbBfDzQeQ9ySlhFM8HUDwJKWEUzwdoOTBqeRCroRTPO0B9rYu3E3REJ5SwimexgD4sjE/hl1wiCnf+TRo239DCad4WgIg3ODXhJDHEhAAh2RQwimeZgBxeucXLBTtzgkZlHCKpxkAk4Vm5EYFDKGfmchZDKd4mgFgkzP4TZF936yEUxBOcQuEU0o4xdMMwO0SGwM3SOYM0zstnOJpCeCCb51jMyvFh8QqSjjF0xjA+VHd3+l/75S1i+EUT3sAt3t8Of2PSQmneI4C4PzYcXHPUAyneI4FUJQSTvF0AMGTlBJO8XQA7+HEz/ULf5V2uM8b03wA/PAXBy63SrsYbj4AxMISy20PKkqbK10+3HwAeU9SSjjF0wEET1JKOMVzAgCDf0bD95LY0xwAw/Epz3ioHIDz+WzKS5K0BQhzD34/m0/vigAU1h3MgEbCH5ltQpwOwNx8q2ZuDGevpnlJAKaYhO1qAHSvy206DMC08W/xRlINYLkrrkBVApgwcPE2HRM6Vuc2TQVYXB1gaXWApdUBllYHWFq/egLi3urzDTIAAAAASUVORK5CYII=" y="928.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1132" y="1005.9326"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="115" x="1076.5" y="1024.0859">API Gateway</text></g><!--MD5=[3e93cece59fb52622bb61887c05af2cb]
+entity lambda--><g id="elem_lambda"><rect fill="#FFFFFF" height="122.9219" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:0.5;" width="95" x="1238.5" y="916.9375"/><image height="64" width="64" x="1254" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAACYUlEQVR4Xu2aQUsDMRCF+9v9B/4E/4DgzauePXjzqudQKIWCFEodGCxhX5N5mZ1kLe7yTm7czPdeMtlaN+nx7qa1wR/dllaApbUCLK0VYGn9S4Dt8/3+7YkXPiFQHoDDx8u55dq9PuBDouQHEGulsrpkjIw8pk98SJT8ALKQ8Bbq++u9awjdAaT0riF0BxBJ9U3jmzQCQEOQtYS35msEQOoZwiCAfiEMAkjdQvADnA47qWmiSrvUM0F+F2/NkQdAqsTS1eBjtV0Kc3gIHoCSzDOrRwiRAMyZFR5CJED63akjQwgGMNuleC8hiKJCCAZIRLu8vMziLYfiAZgQtAvjLYcCALSr5paPDCEAQMvNLdedOiaEuQC6YPTKLTfbpXlokJoLoPaj5Wa71BDqhwajWQB5Ebjux4QwCyCvAJvPmBD8ADj9xHI9s3qH4AfAudFybZeVEJjXp7qcAGi/CkM4W+0SN0+TnAClk6gUAo68CDdPkzwAdV8Hh+ABqJs6OIRmAMZRRwhmvyqpGcC0M12rBlvWRJgbqTYAbe2n6seRq+uh1LVyITajNgDGp9KO7BRCG4Bp0lX7VXwIx+xPNfW1mpoAGIdK9quYEPLqS17kagAg7a94bA6YKBKAsd80OFkRTRQJYNrPLPFU3SQoZiQFwMzK2K/iQzAnTSSAOSVpv4qxQ8UMswGY+ZjjOZfpiMqcNzEA5mRqf/1VZyKmJaQQALVfitvBl9gX6ern7VdpV9hXvy0PANDizKvJfpWGYF5zAbbc/3XsiOaDwuegKktXZQD8fa0AS2sFWForwNJaAZbWD9vq2LmAPvgfAAAAAElFTkSuQmCC" y="928.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1284" y="1005.9326"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="71" x="1250.5" y="1024.0859">Lambda</text></g><!--MD5=[676e80cf98a9ef6ec9db618bfee6cc62]
+entity dynamodb--><g id="elem_dynamodb"><rect fill="#FFFFFF" height="122.9219" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:0.5;" width="123" x="1072.5" y="1100.9375"/><image height="64" width="64" x="1102" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAADxUlEQVR4Xu1asYrcMBC9H58yjcs026W6Kt02KV2k3SLtQkgRyJFAIMWFFIGA76GHB63Glmdks86BxeO4s2XpvdHMaGTfg7z58qrxYC+9LhwC9sYhYG8cAvbGISChe/v19O7b4/sf5w8/FfgTF3HL9t8Q7QJA8fLp+en738HRnn//Q2c8srmesADYNSeN38Gs//gL5GDvAriIW4XO6+c/dthmBATAeMoDnKDE9qkDkqjW3mqGVwDmJvVtp18PrwA4Mdg3ezAehPJFNKyqSwCmX2l7Z6yj2WfrcAmg/zQHH+w6JP0wxBw4BSLEPl5HQEDbBDKa317PAXnog4nsrToCAhgG+InkaPvMQc1vb+XAsNBpry8iIID7K2UMaQcArUWbecxPkSG7KGIC+CfmQzyoEjaaENe542rPwWF+j8g5tAhQIPhAEfzAGyQAyAA03D3MmOLaokuiAjgZ+HkSttP8DF+WJIrFpxQuAWok/IKfo9cs7Gse8wP5gHmrD65wCZCRTe7c9UV3mr8ASDO0PCtMeAVwEYbkP4uZR8bSQ88GRN2oDezFL0A9lTIwUyWHqtqi1fdyDh5iL34BQ2IvY1mW51CmHUae2pjVgQLmH6oeVbioHy4BzELF9KB4Hg9lqmduTeqVQjN7CQkAS3vLCe4P9rqsYy8hAdQQ9VGpVuPwvblbTgQEcLIhBcNiSskx5z/r2UtIAFc5j2CG7zl7g5IHsT7OICnG3IS9NAjQK5hbs+pkY3/6T7HrkX19K3QiLMDGQJdKOm5VfXbApc8wgeb+w9phE/YSFaDRfHG/Vikqopw9E7E/libhEiDZRsbDAGXYbgUK/yF73Y85zp0EMJNAg87nWQH6D3tyBLLHIFuFgVcAbcmGWW1OnARZyi179cNhtfnFL4Cu3KfDl06vOXSOB/vk7Ak+OIxuuQYuAYUrd6mey5WwsV7Q3ZpHAiqfJDq3wYXgEsBFn/TXU/os0KdX0CzsAApQhZPsZRTgiaUKAgKik9XZc32iY1rEBAzuE5n6j73V3R6s7yeAfsJZn5beapFlMUhefWgc30+A1jb9/ImsT59qtKbAxWt6ZZR3vqS3GzKu0r0FKFgIkGKup2gqz1YN+wi4Vt9qddkbc3u3wP0EcB+g06tpJ7NqCLZQbYBLgNx+YsLERY3ZgC69BbIHnSi8AtT2/eozlIy2X29+8QuQZDPNJxf3eSDHKX1m5Qiw/Xr2EhJAPK7+0K21xiYIC1Awh+bMKo06bSZdj3YBObrX+M8e/wkOAXvjELA3DgF74xCwN14AdzgE4KRN4cQAAAAASUVORK5CYII=" y="1112.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1132" y="1189.9326"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="99" x="1084.5" y="1208.0859">DynamoDB</text></g><!--MD5=[b30c2515ee87bcb7bb5cf1f48d32e9bd]
+entity Dependabot--><g id="elem_Dependabot"><ellipse cx="586" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="540.5" y="649.9326">Dependabot</text></g><!--MD5=[d4531ff8b4c887de5e8b9d95939f3897]
+entity CodeQL--><g id="elem_CodeQL"><ellipse cx="714" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="686" y="649.9326">CodeQL</text></g><!--MD5=[603938241913139ed740b9a3a753192f]
+entity release-drafter--><g id="elem_release-drafter"><ellipse cx="851" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="796.5" y="649.9326">release-drafter</text></g><!--MD5=[945d2b81216480926f0b19185bf19519]
+entity action-label-syncer--><g id="elem_action-label-syncer"><ellipse cx="600" cy="978.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="530.5" y="1010.4326">action-label-syncer</text></g><!--MD5=[ea8df9140f3e466d736e7cd1728b3d33]
+entity lighthouse--><g id="elem_lighthouse"><ellipse cx="761" cy="978.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="723.5" y="1010.4326">lighthouse</text></g><!--MD5=[820cc7edcfd480482c1f9a1a4fb00e35]
+entity cypresss--><g id="elem_cypresss"><ellipse cx="884" cy="978.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="853" y="1010.4326">cypresss</text></g><!--MD5=[b4bbcbe82efa2909bd41cd4ab912ea1a]
+entity if php test phpcys--><g id="elem_if php test phpcys"><ellipse cx="598" cy="1162.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="531.5" y="1194.4326">if php test phpcys</text></g><!--MD5=[fa70df4a4770efdb60a1600e8bb1791b]
+entity Packages--><g id="elem_Packages"><ellipse cx="323" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="289.5" y="649.9326">Packages</text></g><!--MD5=[106530ce390ae97d1e80b7795afd2806]
+entity Coplit--><g id="elem_Coplit"><ellipse cx="433" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="411" y="649.9326">Coplit</text></g><!--MD5=[0b2eeebd115dabf8864196fbb97169f9]
+entity Codspace--><g id="elem_Codspace"><ellipse cx="325" cy="978.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="290" y="1010.4326">Codspace</text></g><!--MD5=[4160d79db98d03b30bdc72912119c8d7]
+entity Discussions--><g id="elem_Discussions"><ellipse cx="356" cy="1428.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="315.5" y="1460.4326">Discussions</text></g><!--MD5=[06b4486fddbba1b1d80af4192d5ae066]
+entity WIKI--><g id="elem_WIKI"><ellipse cx="468" cy="1428.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="452" y="1460.4326">WIKI</text></g><!--MD5=[85f4d1a33338ddce045f9b827d37a273]
+entity pages--><g id="elem_pages"><ellipse cx="356" cy="1594.4375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="334.5" y="1626.4326">pages</text></g><!--MD5=[97d830d5e5b460bdf66d951ba21fb85b]
+entity issue--><g id="elem_issue"><ellipse cx="197" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="179.5" y="649.9326">issue</text></g><!--MD5=[bb55ad6380ff7cb117d5e38d7ff3184f]
+entity projects--><g id="elem_projects"><ellipse cx="95" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="65" y="649.9326">projects</text></g><!--MD5=[4f72fb8f36e73bcf967e3724a04f9003]
+entity gitBranchFeature--><g id="elem_gitBranchFeature"><rect fill="#FFFFFF" height="104.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="143" x="551.5" y="1375.9375"/><image height="48" width="48" x="599" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACRElEQVR4Xu2YYZECMQxGawELWDgLWMACFrCABSxgAQtYwAIWet9sZj5Cut1kd9uDm+H9YkrYPpo0LaT8YSQ78G6+Qh7/Vuhyuez3+5+B4/H4eDxsRCNCQrvdLhVA0ca1wBcatRFut5uNXo0jdL1eZe7NZoPXGEGykDsZRPrsB1bjCB0OB5nbJGi73cp482JyhJgvM466lvHprOFdrOv9frdv1LEzGZgd89DaOKGxgOROqxNH6Hw+yxOxVBzUhaVin2D6p4tCqnAaRwhgVnkcXmBh9KaDro1+XRuU4Ol00n5uzflCWGo6aTCZDR1ggM4mUww/FTuCL5SHrc5phJoNJCQABpHxkpBQVt9bQF5sxACWUwKMMb+SrsVRGgtxYjQqPc7NUfsgaSyUVblgMbBgSBZtUr1NkPZCWKTRTZAmP0XaC+WhhHm2BD9CugjlolOn4vCpEY57xRXiqSzUenpJLyGTsvhFpYsQD7tgvKa9EHZZWdGRY1VoLISWU+550ySnWS6ElcA1EsWLBogSKT3I6KWgxkKhMik13MPLsFAoCLzdC5ChoxDyONcmdxLCwsyqG00DIUyPQsEhjwKHR/AyXyMkxGuXAUlxrxNz8YXKtktsaAuch+rLDdYDV3R9atba4xocIRjI3Ppyzht76rBIzhNrv1Br4+txhPiz0HQUJm7lnipxhDix6Stv+/dDb3g4IUEY4U/juedUBEcoF5dRTfMCyhGhPOaEXtC8eoSQUB62OrqOnA+d/u4UokJ/xlfI4+OEfgGUphVUHa4XJQAAAABJRU5ErkJggg==" y="1387.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="567.5" y="1448.9326">OAM- or issue-#</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="598" y="1465.2295">branch</text></g><!--MD5=[ad09a11fc1e4f87a0874e7585f715ae4]
+entity gitBranchDevelop--><g id="elem_gitBranchDevelop"><rect fill="#FFFFFF" height="104.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="86" x="730" y="1375.9375"/><image height="48" width="48" x="749" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACRElEQVR4Xu2YYZECMQxGawELWDgLWMACFrCABSxgAQtYwAIWet9sZj5Cut1kd9uDm+H9YkrYPpo0LaT8YSQ78G6+Qh7/Vuhyuez3+5+B4/H4eDxsRCNCQrvdLhVA0ca1wBcatRFut5uNXo0jdL1eZe7NZoPXGEGykDsZRPrsB1bjCB0OB5nbJGi73cp482JyhJgvM466lvHprOFdrOv9frdv1LEzGZgd89DaOKGxgOROqxNH6Hw+yxOxVBzUhaVin2D6p4tCqnAaRwhgVnkcXmBh9KaDro1+XRuU4Ol00n5uzflCWGo6aTCZDR1ggM4mUww/FTuCL5SHrc5phJoNJCQABpHxkpBQVt9bQF5sxACWUwKMMb+SrsVRGgtxYjQqPc7NUfsgaSyUVblgMbBgSBZtUr1NkPZCWKTRTZAmP0XaC+WhhHm2BD9CugjlolOn4vCpEY57xRXiqSzUenpJLyGTsvhFpYsQD7tgvKa9EHZZWdGRY1VoLISWU+550ySnWS6ElcA1EsWLBogSKT3I6KWgxkKhMik13MPLsFAoCLzdC5ChoxDyONcmdxLCwsyqG00DIUyPQsEhjwKHR/AyXyMkxGuXAUlxrxNz8YXKtktsaAuch+rLDdYDV3R9atba4xocIRjI3Ppyzht76rBIzhNrv1Br4+txhPiz0HQUJm7lnipxhDix6Stv+/dDb3g4IUEY4U/juedUBEcoF5dRTfMCyhGhPOaEXtC8eoSQUB62OrqOnA+d/u4UokJ/xlfI4+OEfgGUphVUHa4XJQAAAABJRU5ErkJggg==" y="1387.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="746" y="1448.9326">develop</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="748" y="1465.2295">branch</text></g><!--MD5=[87c5eb21084b2ba3034a22b94af23b90]
+entity gitBranchMain--><g id="elem_gitBranchMain"><rect fill="#FFFFFF" height="104.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="74" x="851" y="1375.9375"/><image height="48" width="48" x="864" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACRElEQVR4Xu2YYZECMQxGawELWDgLWMACFrCABSxgAQtYwAIWet9sZj5Cut1kd9uDm+H9YkrYPpo0LaT8YSQ78G6+Qh7/Vuhyuez3+5+B4/H4eDxsRCNCQrvdLhVA0ca1wBcatRFut5uNXo0jdL1eZe7NZoPXGEGykDsZRPrsB1bjCB0OB5nbJGi73cp482JyhJgvM466lvHprOFdrOv9frdv1LEzGZgd89DaOKGxgOROqxNH6Hw+yxOxVBzUhaVin2D6p4tCqnAaRwhgVnkcXmBh9KaDro1+XRuU4Ol00n5uzflCWGo6aTCZDR1ggM4mUww/FTuCL5SHrc5phJoNJCQABpHxkpBQVt9bQF5sxACWUwKMMb+SrsVRGgtxYjQqPc7NUfsgaSyUVblgMbBgSBZtUr1NkPZCWKTRTZAmP0XaC+WhhHm2BD9CugjlolOn4vCpEY57xRXiqSzUenpJLyGTsvhFpYsQD7tgvKa9EHZZWdGRY1VoLISWU+550ySnWS6ElcA1EsWLBogSKT3I6KWgxkKhMik13MPLsFAoCLzdC5ChoxDyONcmdxLCwsyqG00DIUyPQsEhjwKHR/AyXyMkxGuXAUlxrxNz8YXKtktsaAuch+rLDdYDV3R9atba4xocIRjI3Ppyzht76rBIzhNrv1Br4+txhPiz0HQUJm7lnipxhDix6Stv+/dDb3g4IUEY4U/juedUBEcoF5dRTfMCyhGhPOaEXtC8eoSQUB62OrqOnA+d/u4UokJ/xlfI4+OEfgGUphVUHa4XJQAAAABJRU5ErkJggg==" y="1387.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="872.5" y="1448.9326">main</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="863" y="1465.2295">branch</text></g><!--MD5=[d2d852b09a3f4b5a8e1281ef2d4dc8bb]
+entity gitPRDevelop--><g id="elem_gitPRDevelop"><rect fill="#FFFFFF" height="104.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="162" x="564" y="1541.9375"/><image height="48" width="48" x="621" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACBklEQVR4Xu2YbZECMQyGawELWMACFtYCFrBwFrCABSxgAQtY6L2zGULu7abpwvIxN31+3BylTZ6m3Z2WlL+MxA2fpgtF/Heh0+nETTNZUmi73e73e26dSZPQ9Xo9n8+Xy4W/MMAmpfRyIagMw5BurFarw+HAnW42LxdCSWCgNgplVZvyqweoCW02G0mDlCgMkmlirKD0sTZgvV4PN9D/gT3uCqE8kgOhvUaymQQ1Ph6P97gRrhCiSESapZQNlWixUXa7nQ1SwRWCh8Si+YkQ/toVbKFxe7lCeL4kEHJro5ZNZjzXCTHvCRxcIYCsEgj7AP/bNdJ3EjnB/mcE7VhW+xVA+98ME9SEsnnQLLSI1smuC+pBbw37fHgEQoAmOvliVCfaKCiJHWtX3yMWoiJ5z7A4kZDuOeGtQnl0+i6hPL457cfPCxFdKKILRXShiC4U0YUiulDE8kIUUYK2HI3zeGKkyaSG+dSEShuhZaK5KK1Sd6oJ6YlYQmDGes6fPMha0EF6YohUVKeHsNzb4Arhsizj6aoglkhjG0tEnXLrEVtv4iWukE6IBksmnPxtY4lcDchbJ1lZNVeoXqFwG8kGWrJCeWoP6W9F4ZVPc2PIMnsom41JhOsllDdXobJeuS6Ui5teevo9FD6egVAe40ILd/vHfoDCEAzEcARpmUks9Ga6UMTXCf0CDtiFolkaNnUAAAAASUVORK5CYII=" y="1553.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="603" y="1614.9326">Pull Request</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="576" y="1631.2295">Require 2 approves</text></g><!--MD5=[985f4a356ed73c56e9147569f2c9b829]
+entity gitPRMain--><g id="elem_gitPRMain"><rect fill="#FFFFFF" height="104.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="163" x="761.5" y="1541.9375"/><image height="48" width="48" x="819" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACBklEQVR4Xu2YbZECMQyGawELWMACFtYCFrBwFrCABSxgAQtY6L2zGULu7abpwvIxN31+3BylTZ6m3Z2WlL+MxA2fpgtF/Heh0+nETTNZUmi73e73e26dSZPQ9Xo9n8+Xy4W/MMAmpfRyIagMw5BurFarw+HAnW42LxdCSWCgNgplVZvyqweoCW02G0mDlCgMkmlirKD0sTZgvV4PN9D/gT3uCqE8kgOhvUaymQQ1Ph6P97gRrhCiSESapZQNlWixUXa7nQ1SwRWCh8Si+YkQ/toVbKFxe7lCeL4kEHJro5ZNZjzXCTHvCRxcIYCsEgj7AP/bNdJ3EjnB/mcE7VhW+xVA+98ME9SEsnnQLLSI1smuC+pBbw37fHgEQoAmOvliVCfaKCiJHWtX3yMWoiJ5z7A4kZDuOeGtQnl0+i6hPL457cfPCxFdKKILRXShiC4U0YUiulDE8kIUUYK2HI3zeGKkyaSG+dSEShuhZaK5KK1Sd6oJ6YlYQmDGes6fPMha0EF6YohUVKeHsNzb4Arhsizj6aoglkhjG0tEnXLrEVtv4iWukE6IBksmnPxtY4lcDchbJ1lZNVeoXqFwG8kGWrJCeWoP6W9F4ZVPc2PIMnsom41JhOsllDdXobJeuS6Ui5teevo9FD6egVAe40ILd/vHfoDCEAzEcARpmUks9Ga6UMTXCf0CDtiFolkaNnUAAAAASUVORK5CYII=" y="1553.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="801" y="1614.9326">Pull Request</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="773.5" y="1631.2295">Require 1 approves</text></g><!--MD5=[7a84b64b0b7b7d5ec450ed14b904bacb]
+entity db3--><g id="elem_db3"><path d="M1406,939.9375 C1406,929.9375 1442,929.9375 1442,929.9375 C1442,929.9375 1478,929.9375 1478,939.9375 L1478,1017.2344 C1478,1027.2344 1442,1027.2344 1442,1027.2344 C1442,1027.2344 1406,1027.2344 1406,1017.2344 L1406,939.9375 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M1406,939.9375 C1406,949.9375 1442,949.9375 1442,949.9375 C1442,949.9375 1478,949.9375 1478,939.9375 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><image height="48" width="48" x="1418" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACAklEQVR4Xu2Yb5HCMBBHY+EkIKESkICESkBCJSABCUhAQiUgIQ7uze5cpywhu6WlvQ99H26YNEMev2z+9FL+ZyTbsDW7kMcu5LELeZSFLpfLj3A8HvlsH3+TstDhcGjb9nq9nk6nlBJmaD0eD9vvC5SFWkE/932vWtA0zfl8vt1uT70XpSyEBKnwd2ghHjy6rsNJzb6kVRYCHdu2Cvf7XTMbUlyQt0JASJSRbf2DR3RAetnaqgkxJNVtW0egghB9FnSqCWUJya0Vps8U3BwcISqJrci2vkCfpXJyhBiD4o2M1Ai2dTqOUJYZiawmpmyRdecLaUiREmF+6cmmYB9MwRcCdufgT6eSZk5cSIifzsTZ1hIsSUJyF2aFkBDxxM/8mdUdEmIi4pUxM6SQUHDlD8wJyRfSVWZbq8wJyR9pLKTXkqfHb/g4JF8oy5TpPkR185lFZ3u8QM0FexpCQhxVeg+hupMQKam4/ZiQENWAkx4ODIAWW6XtVILO+rJQuVcZQkJZakKz6QXGiISk6L2Kb4icP1EhvYsN+ZNZcO8e0LTcqKJCr/DV8d1SIaFG3lvsgxGfC00FG3LVSq8cRGsIqUSSlyd9/6zU33pCwY17DaEs106c3IrOqwll+QcGTu7aXE8oy3niXilXFVLqr1YbCGXZZt/tYdsIVdiFPHYhj13I4xdC6ToPPw0BDwAAAABJRU5ErkJggg==" y="955.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1424" y="1016.9326">Mysql</text></g><!--MD5=[c2445b405568889b73533a0da2b63820]
+entity slack--><g id="elem_slack"><rect fill="#FFFFFF" height="88.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="72" x="1045" y="292.9375"/><image height="48" width="48" x="1057" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACLklEQVR4Xu2XW3HDMBBFTSEUQsEUTMEUQiEUQiEUQsEUTCEUQkG9o53RrPclya3H/cj5q7fSHj16Rx3SP2OQH87mK1Rjp9Dn85GfGHE1plvo9XpdLpchM02T6B1XW+gTQj9qVkD7oHq9XtnoJvqEyuo59/s9qD4ej+0cFTqE3u+37JbB0VSr7XQI4ULIbplxHFFd11UWMgcKAcwuG54rhHPRF+VMoZQPDrd4ZNxut3SikMfhQjidNUSE3toshJmDwDSEeNrG4LwwO41qEXo+n/y7qSWFlmVhs9WBOs1bFUJCipKZ41KocW84lNRVIVnI6BzfCHnRF0MtYyGvOs8zF0h6h+SIBmhSbzFU9W4CRcZGQPyM8XJQDTSjsWaOU9UTws5t2mshLBR3TY7z4UvUOV4eAqZQqXKkEIG7NtXAXpa94aCNrsK1ZWzyhE7EFeJJXdKPV/XHQhnoYUYiYQjppOYJxtOWJ7WuxuDgzCVJIfP2FSHdryS1WY3Zn9RlpFktfyyy0MDOpCah+NXsVWN2JnXckl6M3mJidiY1rnmqCSUnqWPWHUldFlEV0mNj9AVKWojAr84ZkbZyykwRIlpSHovUe0PYQiaNQr/kL4UWhrcBVf5MaFVPMNwnM4tjDhQatjneyLFCg/PoCThcaFL/l8V0CHlZ3PKmbqdDKDk5XrJqspK698+tTwjbgAPi/fgV0UltZnFMnxCBdw+2yktbqkLUrFbZI3QoX6EaX6EaP9B6gXzflZHaAAAAAElFTkSuQmCC" y="304.9375"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="1064" y="365.9326">Slack</text></g><!--MD5=[f672f4a5089054eaa4b7bfc54a063d43]
+entity Taska--><g id="elem_Taska"><ellipse cx="2786" cy="336.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="2765.5" y="368.9326">Taska</text></g><!--MD5=[595e9e67f4b9b0b7d60dd8c841d8d8fd]
+entity GoogleSheets--><g id="elem_GoogleSheets"><ellipse cx="2073" cy="336.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="2022.5" y="368.9326">GoogleSheets</text></g><!--MD5=[baf6689118615d9b0da4966ca410e3e7]
+entity CRUD表--><g id="elem_CRUD表"><rect fill="#FFFFFF" height="50.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="98" x="1403" y="592.9375"/><path d="M1435.6667,592.9375 L1435.6667,597.9375 L1428.6667,604.9375 L1403,604.9375 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="1420" y="627.9326">CRUD表</text></g><!--MD5=[12a4d7ca4427bfc4195b4c072f788eb5]
+entity Figma--><g id="elem_Figma"><ellipse cx="1670" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="1648.5" y="649.9326">Figma</text></g><!--MD5=[d6e695167a1baad64d6445771a955892]
+entity dbdiagram.io--><g id="elem_dbdiagram.io"><ellipse cx="1986" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="1938.5" y="649.9326">dbdiagram.io</text></g><!--MD5=[2d23d59b5a9ab2ad762f24bd6162d7ed]
+entity PlantUML--><g id="elem_PlantUML"><ellipse cx="1851" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="1818" y="649.9326">PlantUML</text></g><!--MD5=[679dda01c85278ec35505631eb64df0c]
+entity https://www.wakuwakubank.com/posts/850-design-uml-layout-map/--><g id="elem_https://www.wakuwakubank.com/posts/850-design-uml-layout-map/"><ellipse cx="2405" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="491" x="2159.5" y="649.9326">https://www.wakuwakubank.com/posts/850-design-uml-layout-map/</text></g><!--MD5=[27a0ce3277719d0d2e849fc824d6872d]
+entity シーケンス図--><g id="elem_シーケンス図"><rect fill="#FFFFFF" height="50.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="128" x="1403" y="311.9375"/><path d="M1445.6667,311.9375 L1445.6667,316.9375 L1438.6667,323.9375 L1403,323.9375 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="1420" y="346.9326">シーケンス図</text></g><!--MD5=[7b86c14f8d85354c06ac6b440081b183]
+entity その他テンプレート/https://notepm.jp/template--><g id="elem_その他テンプレート/https://notepm.jp/template"><ellipse cx="1744" cy="336.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="336" x="1576" y="368.9326">その他テンプレート/https://notepm.jp/template</text></g><!--MD5=[edf4e578c44a1e5f82a4290728eeca82]
+entity Tableplus--><g id="elem_Tableplus"><ellipse cx="1196" cy="336.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="1161.5" y="368.9326">Tableplus</text></g><!--MD5=[3b18eecba499a6bf98bd670bc00db612]
+entity Vscode--><g id="elem_Vscode"><ellipse cx="1311" cy="336.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="1285" y="368.9326">Vscode</text></g><!--MD5=[0bb9479a79322ef8a438def6ee6dec6d]
+entity Postman--><g id="elem_Postman"><ellipse cx="1196" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="1164.5" y="649.9326">Postman</text></g><!--MD5=[fb1239b090e799ef2ed2bb62c488a4ee]
+entity Docker--><g id="elem_Docker"><ellipse cx="1308" cy="617.9375" fill="#808080" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="1282" y="649.9326">Docker</text></g><!--MD5=[5021ded5b17802e71a065a2fa63372af]
+link URL設計 to CRUD表--><g id="link_URL設計_CRUD表"><path d="M1969.9481,366.0771 C1969.8573,366.3122 1969.7657,366.5478 1969.6732,366.784 C1969.4883,367.2564 1969.2997,367.731 1969.1075,368.2075 C1962.9575,383.455 1953.1,400.6375 1938,409.9375 C1918.07,422.2175 1535.76,412.9475 1517,426.9375 C1464.18,466.3275 1453.92,551.1175 1452.17,592.7975 " fill="none" id="URL設計-CRUD表" style="stroke:#666666;stroke-width:1.0;"/></g><!--MD5=[3a23a0b909c8082eaf046526d01c0e00]
+link URL設計 to 画面設計ワイヤーフレーム--><g id="link_URL設計_画面設計ワイヤーフレーム"><path d="M1969.8978,365.9979 C1969.8068,366.2326 1969.715,366.4679 1969.6222,366.7037 C1969.4367,367.1754 1969.2477,367.6492 1969.055,368.125 C1962.89,383.35 1953.035,400.5375 1938,409.9375 C1930.57,414.5875 1629.34,420.8875 1623,426.9375 C1607.9,441.3625 1603.0625,487.615 1602.0425,530.87 C1602.0106,532.2217 1601.9825,533.5705 1601.9579,534.9153 C1601.9456,535.5877 1601.9341,536.2591 1601.9236,536.9294 C1601.9183,537.2645 1601.9132,537.5994 1601.9084,537.9339 " fill="none" id="URL設計-画面設計ワイヤーフレーム" style="stroke:#666666;stroke-width:1.0;"/></g><!--MD5=[ea01fa7dc9cf7563cf4552f999983db4]
+link URL設計 to DB設計ER図--><g id="link_URL設計_DB設計ER図"><path d="M1969.9421,364.9537 C1969.5803,365.8799 1969.2047,366.8165 1968.815,367.7613 C1962.58,382.8775 1952.735,400.0775 1938,409.9375 C1910.85,428.1075 1814.91,403.6575 1792,426.9375 C1762.705,456.7125 1757.645,503.205 1760.06,542.7463 C1760.6638,552.6316 1761.7347,562.0824 1763.0109,570.729 C1763.33,572.8906 1763.6619,575.002 1764.0025,577.0574 C1764.1728,578.085 1764.3453,579.0987 1764.5195,580.0976 C1764.6066,580.5971 1764.6941,581.0928 1764.782,581.5848 C1764.8259,581.8308 1764.8699,582.0759 1764.914,582.32 " fill="none" id="URL設計-DB設計ER図" style="stroke:#666666;stroke-width:1.0;"/></g><!--MD5=[2ee1aad500acde48c3220564813fff77]
+link URL設計 to システム構成図--><g id="link_URL設計_システム構成図"><path d="M1986.3692,394.0611 C1986.4215,394.1762 1986.4742,394.2912 1986.5271,394.406 C1986.633,394.6355 1986.7402,394.8645 1986.8486,395.0928 C1987.7157,396.9189 1988.6626,398.7025 1989.6965,400.4271 C1991.7644,403.8764 1994.18,407.09 1997,409.9375 C2017.11,430.2375 2038.61,406.9275 2059,426.9375 C2074.465,442.11 2085.71,461.3219 2093.8753,481.6661 C2097.958,491.8382 2101.2707,502.2934 2103.9561,512.6683 C2105.2987,517.8558 2106.4846,523.0231 2107.5314,528.125 C2108.0548,530.676 2108.5434,533.2105 2108.9995,535.723 C2109.1135,536.3512 2109.2255,536.9779 2109.3355,537.6032 " fill="none" id="URL設計-システム構成図" style="stroke:#666666;stroke-width:1.0;"/></g><!--MD5=[a96ddfd06414ac8cc0c2c48439a19b12]
+link clientUser to gitBranchFeature--><g id="link_clientUser_gitBranchFeature"><path d="M2872.0707,419.8509 C2872.1051,420.2506 2872.1396,420.6512 2872.174,421.0529 C2872.243,421.8562 2872.312,422.6635 2872.3811,423.4747 C2872.6574,426.7196 2872.9345,430.0273 2873.2113,433.3925 C2877.64,487.235 2882,555.7775 2882,616.9375 C2882,616.9375 2882,616.9375 2882,1163.4375 C2882,1334.0255 1520.41,1256.0805 1350,1263.9375 C1314.58,1265.5705 742.668,1263.1425 712,1280.9375 C678.143,1300.5825 655.583,1338.7135 641.648,1371.1495 " fill="none" id="clientUser-gitBranchFeature" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="639.655,1375.8915,646.831,1369.1457,641.5932,1371.2824,639.4565,1366.0446,639.655,1375.8915" style="stroke:#666666;stroke-width:1.0;"/><ellipse cx="2872.5859" cy="425.8288" fill="#FFFFFF" rx="6" ry="6" style="stroke:#666666;stroke-width:1.5;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="27" x="2885" y="983.0762">Push</text></g><!--MD5=[7923038e5e3949caaaa9c2d08a9fbaa9]
+link github to db3--><g id="link_github_db3"><path d="M981.2643,629.2942 C981.369,629.4213 981.4747,629.5494 981.5813,629.6785 C983.2869,631.7438 985.2304,634.064 987.3968,636.6004 C996.0625,646.7464 1008.2959,660.3538 1023.1445,674.962 C1052.8418,704.1785 1093,737.3985 1136,754.9375 C1180.17,772.9555 1311.02,744.4305 1350,771.9375 C1401.9,808.5635 1424.98,881.4935 1434.92,929.8805 " fill="none" id="github-db3" style="stroke:#666666;stroke-width:1.0;"/></g><!--MD5=[482de7523a294fa18531b31707b45ea2]
+link github to aws--><g id="link_github_aws"><path d="M981.0389,670.4063 C981.3518,672.4095 981.6717,674.4571 981.998,676.5464 C987.2198,709.9755 994.1109,754.0913 1001.0019,798.2059 C1007.8928,842.3204 1014.7836,886.4337 1020.0048,919.8577 C1020.3311,921.9467 1020.6509,923.9939 1020.9638,925.9968 " fill="none" id="github-aws" style="stroke:#666666;stroke-width:1.0;"/></g><rect fill="none" height="15.6406" style="stroke:none;stroke-width:1.0;" width="165" x="1371.5" y="1699.9375"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="161" x="1373.5" y="1711.2197">ページ %page% / %lastpage%</text><!--MD5=[7fe32f0ca0995005404047b5ca0e7b51]
+@startuml
+skinparam {
+    monochrome false
+    padding 2
+}
+
+' 参考
+' https://qiita.com/irongineer/items/23fcd55830ae2de96ca8
+
+'Icon : https://github.com/tupadr3/plantuml-icon-font-sprites
+
+title System
+header テストシーケンス
+footer ページ %page% / %lastpage%
+
+' GitHub
+!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.3.0
+!includeurl ICONURL/common.puml
+!includeurl ICONURL/devicons/github_badge.puml
+!includeurl ICONURL/devicons/git.puml
+!includeurl ICONURL/devicons/git_branch.puml
+!includeurl ICONURL/devicons/git_pull_request.puml
+!includeurl ICONURL/devicons/git_merge.puml
+'ex. DEV_GITHUB_BADGE(github, GitHub) #White {
+
+!includeurl ICONURL/font-awesome-5/github.puml
+!includeurl ICONURL/font-awesome-5/slack.puml
+'ex. FA5_SLACK(slack, Slack) #red {
+
+!includeurl ICONURL/devicons/mysql.puml
+
+' AWS
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v10.0/dist
+!includeurl AWSPuml/AWSCommon.puml
+!includeurl AWSPuml/General/Client.puml
+!includeurl AWSPuml/GroupIcons/Cloudalt.puml
+!includeurl AWSPuml/ApplicationIntegration/APIGateway.puml
+!includeurl AWSPuml/Compute/Lambda.puml
+!includeurl AWSPuml/Database/DynamoDB.puml
+!includeurl AWSPuml/AWSSimplified.puml
+'ex. Cloudalt(aws, AWS, AWS)
+
+' 図
+Cloudalt(aws, AWS, AWS) {
+    APIGateway(apiGateway, "API Gateway", "API Gateway")
+    Lambda(lambda, "Lambda", "Lambda")
+    DynamoDB(dynamodb, "DynamoDB", "DynamoDB")
+}
+
+DEV_GITHUB_BADGE(github, GitHub) #White {
+    component [CI/CD]Actions {
+        () "Dependabot" #gray
+        () "CodeQL" #gray
+        () "release-drafter" #gray
+        () "action-label-syncer" #gray
+        () "lighthouse" #gray
+        () "cypresss" #gray
+        () "if php test phpcys" #gray
+    }
+    component Optimization {
+        () "Packages" #gray
+        () "Coplit" #gray
+        () "Codspace" #gray
+    }
+    component Documentation\nIdeas {
+        () "Discussions" #gray
+        () "WIKI" #gray
+        () "pages" #gray
+    }
+    component Task {
+        () "issue" #gray
+        () "projects" #gray
+    }
+
+    DEV_GIT_PULL_REQUEST(PullRequest, PullRequest) {
+        DEV_GIT_BRANCH(gitBranchFeature, OAM- or issue-#\nbranch) #White
+        DEV_GIT_BRANCH(gitBranchDevelop, develop\nbranch) #White
+        DEV_GIT_BRANCH(gitBranchMain, main\nbranch) #White
+        DEV_GIT_PULL_REQUEST(gitPRDevelop, Pull Request\nRequire 2 approves) #White
+        DEV_GIT_PULL_REQUEST(gitPRMain, Pull Request\nRequire 1 approves) #White
+    }
+}
+
+package "外部データベース" as ext <<Database>> {
+    DEV_MYSQL(db3,Mysql,database)
+}
+
+Client(clientUser, User, User client device){
+    FA5_SLACK(slack, Slack) #white {
+    }
+
+    rectangle Backlog {
+        () "Taska" #gray
+        () "WIKI" #gray
+    }
+
+    rectangle 設計書作成ツール {
+        frame URL設計 #White {
+            () "GoogleSheets" #gray
+        }
+        frame CRUD表 #White {
+            () "GoogleSheets" #gray
+        }
+        frame 画面設計ワイヤーフレーム #White {
+            () "Figma" #gray
+        }
+        frame DB設計ER図 #White {
+            () "dbdiagram.io" #gray
+            () "PlantUML" #gray
+        }
+        frame システム構成図 #White {
+            () "PlantUML" #gray
+            () "https://www.wakuwakubank.com/posts/850-design-uml-layout-map/" #gray
+        }
+        frame シーケンス図 #White {
+            () "PlantUML" #gray
+        }
+        frame Other #White {
+            () "その他テンプレート/https://notepm.jp/template" #gray
+        }
+    }
+
+    rectangle 開発ツール {
+        () "Tableplus" #gray
+        () "Vscode" #gray
+        () "Postman" #gray
+        () "Docker" #gray
+    }
+}
+
+' down, upのみだとマウスホイールダウンだけで確認できるので楽
+' upを使わないといけない場合はdownで表現できないか考える
+URL設計 -down- CRUD表
+URL設計 -down- 画面設計ワイヤーフレーム
+URL設計 -down- DB設計ER図
+URL設計 -down- システム構成図
+
+clientUser 0- -down- - -> gitBranchFeature : Push
+github -down- db3
+github -down- aws
+@enduml
+
+@startuml
+skinparam {
+    monochrome false
+    padding 2
+}
+
+
+
+title System
+header テストシーケンス
+footer ページ %page% / %lastpage%
+
+
+
+hide stereotype
+sprite $github_badge [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000159CEFFEC951000000000000000000
+00000000000000003AFFFFFFFFFFFFA30000000000000000
+000000000000001AFFFFFFFFFFFFFFFFA100000000000000
+00000000000004EFFFFFFFFFFFFFFFFFFE40000000000000
+0000000000006FFFFFFFFFFFFFFFFFFFFFF6000000000000
+000000000006FFFFFFFFFFFFFFFFFFFFFFFF600000000000
+00000000004FFFFFFFFFFFFFFFFFFFFFFFFFF40000000000
+0000000001EFFFF027EFFFFFFFFFFE710FFFFE1000000000
+0000000009FFFFC000189542246981000CFFFF9000000000
+000000002FFFFFA000000000000000000BFFFFF200000000
+000000009FFFFFC000000000000000000CFFFFF900000000
+00000000EFFFFFD000000000000000000DFFFFFE00000000
+00000003FFFFFF30000000000000000003FFFFFF30000000
+00000007FFFFFB00000000000000000000BFFFFF70000000
+0000000AFFFFF6000000000000000000007FFFFFA0000000
+0000000CFFFFF4000000000000000000004FFFFFC0000000
+0000000CFFFFF4000000000000000000004FFFFFC0000000
+0000000CFFFFF6000000000000000000006FFFFFC0000000
+0000000BFFFFF8000000000000000000008FFFFFB0000000
+00000009FFFFFC00000000000000000000DFFFFF90000000
+00000006FFFFFF40000000000000000004FFFFFF50000000
+00000002FFFFFFD100000000000000001DFFFFFF20000000
+00000000DFFFFFFC2000000000000002CFFFFFFD00000000
+000000006FFD7CFFF93000000000039FFFFFFFF600000000
+000000000EFF609FFFFF80000008FFFFFFFFFFE000000000
+0000000006FFF50CFFFF20000002FFFFFFFFFF5000000000
+0000000000CFFE009EE900000000EFFFFFFFFB0000000000
+00000000001EFF80000000000000DFFFFFFFD10000000000
+000000000002EFF9200100000000CFFFFFFE200000000000
+0000000000002DFFFFFC00000000DFFFFFD2000000000000
+00000000000001BFFFFD00000000DFFFFB10000000000000
+0000000000000005DFFD00000000DFFD4000000000000000
+000000000000000005B8000000008B500000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV GITHUB_BADGE>> White
+sprite $git [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000006600000000000000000000000
+0000000000000000000001DFFC1000000000000000000000
+000000000000000000001DFFFFC100000000000000000000
+00000000000000000001DFFFFFFC10000000000000000000
+00000000000000000005FFFFFFFFC1000000000000000000
+000000000000000001005FFFFFFFFC100000000000000000
+00000000000000001D9005FFFFFFFFC10000000000000000
+0000000000000001DFF9005FFFFFFFFC1000000000000000
+000000000000001DFFFF900007FFFFFFC100000000000000
+00000000000001DFFFFFF800009FFFFFFC10000000000000
+0000000000001DFFFFFFF800005FFFFFFFC1000000000000
+000000000001DFFFFFFFFB00004FFFFFFFFC100000000000
+00000000001DFFFFFFFFFF700006FFFFFFFFC10000000000
+0000000001DFFFFFFFFFFFF106006FFFFFFFFC1000000000
+000000001DFFFFFFFFFFFFF10C9006FFFFFFFFC100000000
+00000001DFFFFFFFFFFFFFF10CF900117FFFFFFC10000000
+0000000AFFFFFFFFFFFFFFF10CFF800009FFFFFFA0000000
+0000000DFFFFFFFFFFFFFFF10CFF800005FFFFFFD0000000
+00000008FFFFFFFFFFFFFFF10CFFB00008FFFFFF90000000
+00000000BFFFFFFFFFFFFFF10CFFF7004FFFFFFB00000000
+000000000BFFFFFFFFFFFFF10CFFFFEEFFFFFFB000000000
+0000000000BFFFFFFFFFFFF10CFFFFFFFFFFFC0000000000
+00000000000BFFFFFFFFFFA007FFFFFFFFFFB00000000000
+000000000000BFFFFFFFFC0000AFFFFFFFFB000000000000
+0000000000000BFFFFFFF800006FFFFFFFB0000000000000
+00000000000000BFFFFFFA00008FFFFFFB00000000000000
+000000000000000BFFFFFF6004FFFFFFB000000000000000
+0000000000000000BFFFFFFEDFFFFFFB0000000000000000
+00000000000000000BFFFFFFFFFFFFC00000000000000000
+000000000000000000BFFFFFFFFFFC000000000000000000
+0000000000000000000BFFFFFFFFC0000000000000000000
+00000000000000000000BFFFFFFC00000000000000000000
+000000000000000000000BFFFFC000000000000000000000
+0000000000000000000000AFFB0000000000000000000000
+000000000000000000000003300000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV GIT>> White
+sprite $git_branch [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+00000000000005ACC8100000000000000000000000000000
+000000000000BFFFFFF50000000000000000000000000000
+00000000000BFFFFFFFF3000000000000000000000000000
+00000000004FFE401AFFC000000000000000000000000000
+00000000009FF50000DFF100000000000000000000000000
+0000000000BFF000008FF300000000034200000000000000
+0000000000AFF20000AFF200000008FFFFC3000000000000
+00000000006FFB0004FFE0000000CFFFFFFF400000000000
+00000000000EFFEABFFF60000008FFF97CFFF10000000000
+000000000003EFFFFFF90000000FFF2000AFF70000000000
+0000000000001FFFFF900000002FFA00002FFA0000000000
+0000000000000FFFFF800000003FF900001FFB0000000000
+0000000000000FFFFF800000001FFD00006FF80000000000
+0000000000000FFFFF800000000AFFB326FFF20000000000
+0000000000000FFFFF8000000001EFFFFFFF800000000000
+0000000000000FFFFF80000000002DFFFFF8000000000000
+0000000000000FFFFF800000000008FFFFF0000000000000
+0000000000000FFFFF800000000009FFFFE0000000000000
+0000000000000FFFFF80000000000DFFFFC0000000000000
+0000000000000FFFFF80000000004FFFFF80000000000000
+0000000000000FFFFF8000000001DFFFFF40000000000000
+0000000000000FFFFF800000006EFFFFFD00000000000000
+0000000000000FFFFF8159BCEFFFFFFFF600000000000000
+0000000000000FFFFFDFFFFFFFFFFFFFB000000000000000
+0000000000000FFFFFFFFFFFFFFFFFFD1000000000000000
+0000000000000FFFFFFFFFFFFFFFFFC10000000000000000
+0000000000000FFFFFFFFFFFFFFFD6000000000000000000
+0000000000000FFFFFFFFFDBA96300000000000000000000
+0000000000003FFFFFFFC200000000000000000000000000
+000000000004FFFFFFFF0000000000000000000000000000
+00000000001EFFC79FFF8000000000000000000000000000
+00000000007FFA0002FFF000000000000000000000000000
+0000000000AFF20000AFF200000000000000000000000000
+0000000000BFF100009FF300000000000000000000000000
+00000000009FF60000DFF100000000000000000000000000
+00000000003FFF623CFFB000000000000000000000000000
+000000000009FFFFFFFF2000000000000000000000000000
+0000000000009FFFFFE30000000000000000000000000000
+000000000000028A95000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV GIT_BRANCH>> White
+sprite $git_pull_request [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000004000000000000000000000
+0000000000000000000000000B8000000000000000000000
+000000000000132000000000BF8000000000000000000000
+00000000001AFFFE6000000BFF8000000000000000000000
+0000000002EFFFFFF80000BFFF8000000000000000000000
+000000000CFFB68FFF300BFFFFDAAA840000000000000000
+000000002FFA0002FFA0BFFFFFFFFFFFE500000000000000
+000000005FF40000CFDBFFFFFFFFFFFFFF90000000000000
+000000004FF50000CFC8FFFFFFFFFFFFFFF8000000000000
+000000001FFC0005FF908FFFFFFFFFFFFFFF100000000000
+0000000009FFE9BFFF2008FFFFC778DFFFFF700000000000
+0000000000CFFFFFF500008FFF80001EFFFFA00000000000
+00000000000DFFFF60000008FF800007FFFFC00000000000
+00000000000CFFFF500000008F800005FFFFC00000000000
+00000000000CFFFF5000000008800005FFFFC00000000000
+00000000000CFFFF5000000000200005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000000CFFFF5000000000000005FFFFC00000000000
+00000000005FFFFFC10000000000001CFFFFF50000000000
+0000000005FFFFFFFC000000000000CFFFFFFF5000000000
+000000000EFF501BFF600000000006FFB105FFE000000000
+000000003FF70000EFB0000000000BFE00007FF300000000
+000000005FF30000BFD0000000000DFB00003FF500000000
+000000003FF70000EFC0000000000CFE00007FF300000000
+000000000EFF501AFF700000000007FFA105FFE000000000
+0000000006FFFFFFFD000000000000DFFFFFFF5000000000
+00000000007FFFFFC10000000000001CFFFFF60000000000
+000000000001798400000000000000004897100000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV GIT_PULL_REQUEST>> White
+sprite $git_merge [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000028BB8200000000000000000000000000000000
+0000000006FFFFFF70000000000000000000000000000000
+000000005FFFFFFFF6000000000000000000000000000000
+00000000EFF8117FFF100000000000000000000000000000
+00000004FFA00009FF500000000000000000000000000000
+00000006FF500004FF700000000000000000000000000000
+00000005FF700006FF600000000000000000000000000000
+00000001FFE2001DFF200000000000000000000000000000
+00000000AFFFAAEFFB000000000000000000000000000000
+000000000CFFFFFFD1000000000000000000000000000000
+0000000000CFFFFFE0000000000000000000000000000000
+0000000000BFFFFFF5000000000000000000000000000000
+0000000000BFFFFFFE100000000000000000000000000000
+0000000000BFFFFFFF900000000000000000000000000000
+0000000000BFFFFFFFF60000000000000000000000000000
+0000000000BFFFFFFFFF6000000000000000000000000000
+0000000000BFFFFFFFFFF800000000000144100000000000
+0000000000BFFFFFFFFFFFC300000001AFFFFA1000000000
+0000000000BFFFFEFFFFFFFFB400001EFFFFFFE100000000
+0000000000BFFFFC4FFFFFFFFFFCA9CFFD88EFFB00000000
+0000000000BFFFFC03EFFFFFFFFFFFFFD0001DFF20000000
+0000000000BFFFFC001AFFFFFFFFFFFF500006FF60000000
+0000000000BFFFFC00005DFFFFFFFFFF400006FF60000000
+0000000000BFFFFC0000005CFFFFFFFFA0000BFF40000000
+0000000000BFFFFC00000000169CDEFFF923AFFD00000000
+0000000000BFFFFC000000000000004FFFFFFFF400000000
+0000000000BFFFFC0000000000000005FFFFFE5000000000
+0000000000BFFFFC00000000000000001699610000000000
+0000000001DFFFFE10000000000000000000000000000000
+000000001EFFFFFFE2000000000000000000000000000000
+00000000BFFD87DFFC000000000000000000000000000000
+00000002FFD0000CFF300000000000000000000000000000
+00000005FF600005FF600000000000000000000000000000
+00000006FF600004FF700000000000000000000000000000
+00000004FFB0000AFF500000000000000000000000000000
+00000000DFFA339FFE000000000000000000000000000000
+000000004FFFFFFFF5000000000000000000000000000000
+0000000004EFFFFE50000000000000000000000000000000
+000000000005896100000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV GIT_MERGE>> White
+
+sprite $github [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000022200000000000000000000000
+0000000000000000059CFFFFFFFC95000000000000000000
+000000000000003AFFFFFFFFFFFFFFFA4000000000000000
+0000000000002BFFFFFFFFFFFFFFFFFFFC30000000000000
+000000000008FFFFFFFFFFFFFFFFFFFFFFF9000000000000
+0000000001CFFFFFFFFFFFFFFFFFFFFFFFFFD20000000000
+000000001DFFFFFFFFFFFFFFFFFFFFFFFFFFFF4000000000
+00000001DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF300000000
+0000000CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF20000000
+0000008FFFFFD8CFFFFFFFFFFFFFFFFFFA8FFFFFD0000000
+000002FFFFFF7002AFFFFFFFFFFFFFF7100CFFFFF8000000
+00000BFFFFFF300003CA74322358BA100008FFFFFF200000
+00003FFFFFFF100000000000000000000007FFFFFFA00000
+0000AFFFFFFF200000000000000000000007FFFFFFF10000
+0000FFFFFFFF400000000000000000000009FFFFFFF70000
+0005FFFFFFFF400000000000000000000009FFFFFFFD0000
+0009FFFFFFF8000000000000000000000000DFFFFFFF1000
+000CFFFFFFF00000000000000000000000004FFFFFFF4000
+000FFFFFFFB00000000000000000000000000EFFFFFF7000
+001FFFFFFF800000000000000000000000000BFFFFFF9000
+001FFFFFFF800000000000000000000000000AFFFFFFA000
+002FFFFFFF900000000000000000000000000CFFFFFFA000
+001FFFFFFFA00000000000000000000000000DFFFFFF9000
+000FFFFFFFD00000000000000000000000000FFFFFFF8000
+000EFFFFFFF20000000000000000000000005FFFFFFF7000
+000BFFFFFFF9000000000000000000000000CFFFFFFF4000
+0008FFFFFFFF300000000000000000000006FFFFFFFF0000
+0004FFFFFFFFF4000000000000000000006FFFFFFFFC0000
+0000EFFFB9EFFFA400000000000000015CFFFFFFFFF80000
+00008FFFB039FFFFFCA6000000018ADFFFFFFFFFFFF10000
+00002FFFFD13AFFFFFF500000000AFFFFFFFFFFFFFB00000
+00000AFFFFB15DFFFFD0000000003FFFFFFFFFFFFF300000
+000001FFFFF3169EEC50000000000FFFFFFFFFFFFA000000
+0000007FFFFC00606330000000000EFFFFFFFFFFF1000000
+0000000BFFFF90000000000000000EFFFFFFFFFF50000000
+00000000DFFFFE977750000000000EFFFFFFFFF800000000
+000000001DFFFFFFFF90000000000EFFFFFFFF9000000000
+0000000001CFFFFFFF90000000000EFFFFFFF90000000000
+00000000000AFFFFFF90000000000EFFFFFF600000000000
+0000000000004EFFFF90000000000EFFFFB1000000000000
+000000000000007EFF90000000000EFFC400000000000000
+000000000000000059200000000005820000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 GITHUB>> White
+sprite $slack [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000100000000010000000000000000000
+00000000000000005EFFB100005EFFB10000000000000000
+0000000000000005FFFFFE0005FFFFFD0000000000000000
+000000000000000EFFFFFF800EFFFFFF7000000000000000
+000000000000002FFFFFFFB02FFFFFFFB000000000000000
+000000000000001FFFFFFFC03FFFFFFFB000000000000000
+000000000000000BFFFFFFC03FFFFFFFB000000000000000
+0000000000000002EFFFFFC03FFFFFFFB000000000000000
+000000000000000018CCCC903FFFFFFFB000000000000000
+0000000000000000000000003FFFFFFFB000000000000000
+0000000023333333333100003FFFFFFFB000002100000000
+0000005EFFFFFFFFFFFFC2003FFFFFFFB0006FFFB1000000
+000004FFFFFFFFFFFFFFFE103FFFFFFFB007FFFFFD000000
+00000EFFFFFFFFFFFFFFFF803FFFFFFFB00FFFFFFF700000
+00001FFFFFFFFFFFFFFFFFB03FFFFFFFB03FFFFFFFA00000
+00000FFFFFFFFFFFFFFFFFA01FFFFFFFA04FFFFFFF900000
+00000AFFFFFFFFFFFFFFFF400BFFFFFF404FFFFFFF300000
+000001DFFFFFFFFFFFFFF90002EFFFF8004FFFFFF8000000
+00000007BBBBBBBBBBBA40000008BA40002BBBBA40000000
+000000000000000000000000000000000000000000000000
+000000002333200000220000000033333333333100000000
+0000005EFFFFD0006FFFC200006FFFFFFFFFFFFFB2000000
+000004FFFFFFD006FFFFFE1006FFFFFFFFFFFFFFFD000000
+00000EFFFFFFD00EFFFFFF800FFFFFFFFFFFFFFFFF700000
+00001FFFFFFFD02FFFFFFFB02FFFFFFFFFFFFFFFFFA00000
+00000FFFFFFFB02FFFFFFFC01FFFFFFFFFFFFFFFFF900000
+00000AFFFFFF502FFFFFFFC00BFFFFFFFFFFFFFFFF300000
+000001DFFFF9002FFFFFFFC001DFFFFFFFFFFFFFF7000000
+00000007AA40002FFFFFFFC00007BBBBBBBBBBB930000000
+000000000000002FFFFFFFC0000000000000000000000000
+000000000000002FFFFFFFC0044443000000000000000000
+000000000000002FFFFFFFC03FFFFFD20000000000000000
+000000000000002FFFFFFFC03FFFFFFE1000000000000000
+000000000000002FFFFFFFC03FFFFFFF8000000000000000
+000000000000002FFFFFFFC03FFFFFFFB000000000000000
+000000000000001FFFFFFFA01FFFFFFFA000000000000000
+000000000000000AFFFFFF400BFFFFFF3000000000000000
+0000000000000001CFFFF80001DFFFF70000000000000000
+000000000000000006A930000006A8300000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 SLACK>> White
+
+sprite $mysql [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+00000006EEB6000000000000000000000000000000000000
+0000000D95AFE61000000000000000000000000000000000
+000000099002AFFC84000000000000000000000000000000
+00000002E2000147CFC40000000000000000000000000000
+000000007C00000003AF9000000000000000000000000000
+000000000E5000000005EC10000000000000000000000000
+0000000005D0000000001CD1000000000000000000000000
+0000000000E40000000000AE200000000000000000000000
+00000000007B00000000000BD10000000000000000000000
+00000000001F100000000000CC0000000000000000000000
+00000000000A9000000000002F9000000000000000000000
+000000000001F2000000000007F300000000000000000000
+00000000000089000000000000DC00000000000000000000
+0000000000007A0000000000004F40000000000000000000
+000000000000960000000000000CC0000000000000000000
+000000000000D300000000000004F4000000000000000000
+000000000000F100000000000000CC000000000000000000
+000000000001F0000000000000004F400000000000000000
+000000000001F002E000000000000CC00000000000000000
+000000000000F209F7000000000003F70000000000000000
+000000000000B50DFF1000000000009F7000000000000000
+0000000000004B2F7D80000000000007EE50000000000000
+0000000000000CFF22E100000000000005DC200000000000
+00000000000001C7004A0000000000000007E50000000000
+0000000000000000000530000000000000002C8000000000
+00000000000000000000000000000000000249F600000000
+0000000000000000000000000000000009FFC95100000000
+0000000000000000000000000000000009F4000000000000
+0000000000000000000000000000000000AF500000000000
+000000000000000000000000000000000006FA0000000000
+0000000000000000000000000000000000003DC000000000
+000000000000000000000000000000000000007B00000000
+000000000000000000000000000000000000000130000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV MYSQL>> White
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+
+
+
+
+
+
+
+
+sprite $Client [64x64/16z] {
+xTT55WCm24LHuiRV_tBhxb1lkVENaqa4-WG-AhXDtQ5IQQb3gIno3xGebmPuqKSWaa85TlfSHS91do7az_iAeNZKq-tYethhhRVUUkkjRxVhHts1KDZlNMC8
+SA7zNc7T1w2GdEjWMc0eDLg839NXQCddAbSIFOvJsCOL6fnfgK4fh_-l8yiLndZO_rK-8aXxnhuex74WFQ1_vVvTt1CUTtyuO5G5nbWlf9HegJ0KnYmtKm
+}
+
+skinparam rectangle<<Client>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+skinparam participant<<Client>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+sprite $Cloudalt [64x64/16z] {
+xTHLWkCm44NHAvLOzVQ_t05PQNBIy3Fe4uvLPDBlTxbSBjvhIQMlhtFgC5tB_cUsaajpdNdc4ATKeEgd2EtsnUM9GzD90q88G71ri5KEIFjBb0omP86aaswh
+hH6XoW6_9TtPoyhgQstN8xjqWY4f4s5g_oxGz167kEj9aHfMJ2185R8-jE8TRBtFH9Oc-nthUi2hXH2ih7WPk3f1bRWgTqa58EIXEsPaM_7r63XfW2iHz5Cx
+5fdh949ilVTsn4yeCgeSkW9PXr4Y4E_jzkZFyqiHSnYIKSRH_jO3TBrHeJpl_sFM3kkBLV3NQ-kT-AmTnseK3Did14dFxfu70yAKPeRLjHGuMdBOwxErANa3
+N6yP482KToVfbiXkwnDx3Kqd-zggxj7cxYYki7ORRIQMs7NFR6sutkMZjpRrT_FH-vj1vzHdTMEfUg5HN9zY8PfPWFJsz2-kJ_D0Fb- -UNpoDYz5whtxTwnJ
+xniv4DpXl714W5Z6uyev0DdLCPrv3InMtfvaFbhUzvuXAT5rZvV0JR2KSYav9Ok1pLQSa_M0D-EXDBGqSpqsgt4MKdDj_l4fMjDpqo7cElHrFXVzcIwNotS
+}
+
+skinparam rectangle<<Cloudalt>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+skinparam participant<<Cloudalt>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+sprite $APIGateway [64x64/16z] {
+xTC5biCm30JGiIfRqjp_lcMkqWqjUzuBvvlDjTFJ4uqlQJ5QA-1yYWCQOtNkan9IBTOotqoI4X9DvfvCIaZqi4zAIFImVrT2E-lt_bn2oxnpdAV_V2zIgG_7
+D5-ASlDm_CZ-_tplDji7IIgSCSjRSP95wCLcUCF16ngzm2Rx4-S6mMC1Ktqv3G4s9r2c-We9ii98Xg1EzJmMKCgPSx9dXJagIKFb34-ddjuvPta6PDdwTP_d
+-_ut3yRzOTCye9I7OvhNQcptXtxa-_n1ROmtHURP1ESYXlmPGnhJH1MWg0rvqm98ZOG-5Y6PbmHdyIf8_04xnyMpyNMkdPwU7G
+}
+
+skinparam rectangle<<APIGateway>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+skinparam participant<<APIGateway>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+sprite $Lambda [64x64/16z] {
+xPO73iCm30CfEPRy_mzt3zQ0q38kTWwZomIlYyZu9mS7sJzHyni-2JdVuqs7o_aSH4CivGEkvnb7BkK3JSxN0dgU1VIyBh31_4QC1nsRa0-_Gz-R8OTCWox0
+nAg0omBbzvPckmII_fHh0Z0jwhaauBVglbSW02HzR-gEEExLzBsbi2FNixv3W8-6Bi0d7zKf2V31H_M6JLXI5dq8mBGTUVnKIA0hGqQDiW3Nwm9SNmaOyeTw
+FYuC6Iy5wwOoPDpWI7b93NFzBE0Nkb0_2LpZQ3_LEzzbA5_KSochpFcwFk7pajPvFiRrXK2Lzwc-4a0hwwkzPW7Ar_LMVB9rFc3nfDth2QFBIieJ3SIZdWM8
+zlN2ESPC9tByXOE3Cm
+}
+
+skinparam rectangle<<Lambda>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+skinparam participant<<Lambda>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+sprite $DynamoDB [64x64/16z] {
+xTP5aYmv48HX3uxm-nzuka3MnQcXjwflhTyI1VplVNrDL_we7lvjwOeRuZdSLWf0FRBFCbm16FUC0bvyq1xSqa3mNn0CdqpSA7umBw-kkCKF6iOdXPYbuPzx
+-8lBaqkWF_S2oQVBauieF_UP0cZqwyiNygWdomG0HCtpuV8A7lS_fi9KHUm-6VXXFx1wz_G1zH_1TmO-3c1Utx7ZOlYE8ido5vTVHb1yQm1h_XBaoMpc32WW
+qMiqBeoBVim9vOG04FCOSlf78cwVxuE-Z9nq5Q1lVjgjd0tXCv7Dd0r8lPtKXk1HRu3cy5QWDtCsaY60M5RFa4DIPIjVFTcXM7Bzz0RdLbyycSgC7yr4atGu
+j_f-NByLrtnoU0JACe0FSzPXfE6u3-YGjzTF50F6sNe10y2RDmpdl04C3od205ZM6WmxvQGbTEFoJauOJaIaMD3L1Pe7UZrZLxYh5WrGhhwE-ySnltbXftzO
+VshbuzZgm- -sZt6k7zfofy-RzISo8zmKWFYmzleVasw2Ap7F8RdRM_5gVd3PwWVH09ol97hh_98AlZ0Y_-Ryb43_Y_CR8FrlpezQ__pygfxp9y_F-xw-_W8
+}
+
+skinparam rectangle<<DynamoDB>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+skinparam participant<<DynamoDB>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+
+
+hide stereotype
+
+
+
+
+
+rectangle "<color:#232F3E><$Cloudalt></color>\n\n==AWS" <<Cloudalt>> as aws {
+    rectangle "<color:#CC2264><$APIGateway></color>\n\n==API Gateway" <<APIGateway>> as apiGateway
+    rectangle "<color:#D86613><$Lambda></color>\n\n==Lambda" <<Lambda>> as lambda
+    rectangle "<color:#3B48CC><$DynamoDB></color>\n\n==DynamoDB" <<DynamoDB>> as dynamodb
+}
+
+rectangle "<color:black><$github_badge></color>\r GitHub" as github <<DEV GITHUB_BADGE>> #White {
+    component [CI/CD]Actions {
+        () "Dependabot" #gray
+        () "CodeQL" #gray
+        () "release-drafter" #gray
+        () "action-label-syncer" #gray
+        () "lighthouse" #gray
+        () "cypresss" #gray
+        () "if php test phpcys" #gray
+    }
+    component Optimization {
+        () "Packages" #gray
+        () "Coplit" #gray
+        () "Codspace" #gray
+    }
+    component Documentation\nIdeas {
+        () "Discussions" #gray
+        () "WIKI" #gray
+        () "pages" #gray
+    }
+    component Task {
+        () "issue" #gray
+        () "projects" #gray
+    }
+
+    rectangle "<color:black><$git_pull_request></color>\r PullRequest" as PullRequest <<DEV GIT_PULL_REQUEST>> {
+        rectangle "<color:black><$git_branch></color>\r OAM- or issue-#\nbranch" as gitBranchFeature <<DEV GIT_BRANCH>> #White
+        rectangle "<color:black><$git_branch></color>\r develop\nbranch" as gitBranchDevelop <<DEV GIT_BRANCH>> #White
+        rectangle "<color:black><$git_branch></color>\r main\nbranch" as gitBranchMain <<DEV GIT_BRANCH>> #White
+        rectangle "<color:black><$git_pull_request></color>\r Pull Request\nRequire 2 approves" as gitPRDevelop <<DEV GIT_PULL_REQUEST>> #White
+        rectangle "<color:black><$git_pull_request></color>\r Pull Request\nRequire 1 approves" as gitPRMain <<DEV GIT_PULL_REQUEST>> #White
+    }
+}
+
+package "外部データベース" as ext <<Database>> {
+    database "<color:black><$mysql></color>\r Mysql" as db3 <<DEV MYSQL>>
+}
+
+rectangle "<color:#232F3E><$Client></color>\n\n==User" <<Client>> as clientUser{
+    rectangle "<color:black><$slack></color>\r Slack" as slack <<FA5 SLACK>> #white {
+    }
+
+    rectangle Backlog {
+        () "Taska" #gray
+        () "WIKI" #gray
+    }
+
+    rectangle 設計書作成ツール {
+        frame URL設計 #White {
+            () "GoogleSheets" #gray
+        }
+        frame CRUD表 #White {
+            () "GoogleSheets" #gray
+        }
+        frame 画面設計ワイヤーフレーム #White {
+            () "Figma" #gray
+        }
+        frame DB設計ER図 #White {
+            () "dbdiagram.io" #gray
+            () "PlantUML" #gray
+        }
+        frame システム構成図 #White {
+            () "PlantUML" #gray
+            () "https://www.wakuwakubank.com/posts/850-design-uml-layout-map/" #gray
+        }
+        frame シーケンス図 #White {
+            () "PlantUML" #gray
+        }
+        frame Other #White {
+            () "その他テンプレート/https://notepm.jp/template" #gray
+        }
+    }
+
+    rectangle 開発ツール {
+        () "Tableplus" #gray
+        () "Vscode" #gray
+        () "Postman" #gray
+        () "Docker" #gray
+    }
+}
+
+URL設計 -down- CRUD表
+URL設計 -down- 画面設計ワイヤーフレーム
+URL設計 -down- DB設計ER図
+URL設計 -down- システム構成図
+
+clientUser 0- -down- - -> gitBranchFeature : Push
+github -down- db3
+github -down- aws
+@enduml
+
+PlantUML version 1.2022.8beta6(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
