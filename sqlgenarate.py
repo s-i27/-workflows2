@@ -14,8 +14,9 @@ DDL = DDL.replace('#table_name1#','test')
 f = open(path)
 
 for line in f:
-  print("/" + line.strip() + "/")
-  print(line.strip().find('entity'))
+  if line.strip().find('entity'):
+    print("/" + line.strip() + "/")
+    print(line.strip().find('entity'))
 
 f.close
 # With open(path) as f:
