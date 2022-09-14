@@ -6,18 +6,17 @@ import os
 path = os.path.abspath('Sample.pu')
 print(path)
 
-DDL = 'CREate #table_name1# \n'\
-      'CREate #table_name2# \n'
-
-DDL = DDL.replace('#table_name1#','test')
+DDL_template = 'CREATE TABLE IF NOT EXISTS #db_name#.#table_name# \n'\
+    '(col_name data_type,) \n'
 
 f = open(path)
-
-for line in f:
-  if line.strip().find('entity'):
+DDL = [''] * 10
+for i, line in enumerate(f):
     print("/" + line.strip() + "/")
-    print(line.strip().find('entity'))
-
+    if line.strip().find('entity'):
+        replace_key = line[line.find('entity'):3]
+        DDL[i] = DDL_template.replace('#table_name#', replace_key)
+        print(DDL[i])
 f.close
 # With open(path) as f:
 #   s = f.read()
@@ -25,6 +24,6 @@ f.close
 #   Print(s)
 
 # output
-af = open('DDL.txt','w')
+af = open('DDL.txt', 'w')
 af.write(DDL)
 af.close
