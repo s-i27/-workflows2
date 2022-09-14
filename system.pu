@@ -54,6 +54,9 @@ DEV_GITHUB_BADGE(github, GitHub) #White {
         () "CodeQL" #gray
         () "release-drafter" #gray
         () "action-label-syncer" #gray
+        () "lighthouse" #gray
+        () "cypresss" #gray
+        () "if php test phpcys" #gray
     }
     component Optimization {
         () "Packages" #gray
