@@ -26,4 +26,4 @@ f.close
 # output
 af = open('DDL.txt', 'w')
 af.write(DDL)
-af.close
+af.closeｓ
