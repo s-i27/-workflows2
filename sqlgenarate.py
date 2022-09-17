@@ -1,6 +1,23 @@
 # code review
 import os
 
+' -- -----------------------------------------------------
+' -- Table `**`.`**`
+' -- -----------------------------------------------------
+' CREATE TABLE IF NOT EXISTS `**`.`**` (
+'   `id` INT(11) NOT NULL AUTO_INCREMENT COMMENT '**',
+'   `**` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '**',
+'   `**` INT(11) NOT NULL DEFAULT '0' COMMENT '**',
+'   `**` int(11) NOT NULL DEFAULT '1' COMMENT '**',
+'   `**` varchar(255) NULL COMMENT '**',
+'   `**` text NOT NULL COMMENT '**',
+'   `**` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '**',
+'   `**` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '**',
+'   PRIMARY KEY (`id`))
+' ENGINE = InnoDB
+' DEFAULT CHARSET = utf8
+' COMMENT = '**';
+
 # DDL
 # path = os.getcwd()
 path = os.path.abspath('Sample.pu')
