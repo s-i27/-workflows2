@@ -5,10 +5,13 @@
 軽量なドキュメンテーション
 第三者が簡単にコメント
 
-'''
+### NEW ADR
+
+```
 adr new ADR導入の検討
-'''
-### replacement
+```
+
+### Replacement
 
 '''
 adr new -s 1 ADRやめた
