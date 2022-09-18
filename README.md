@@ -1,5 +1,5 @@
 # -workflows2
-## [ADR]https://github.com/npryce/adr-tools
+## [ADR](https://github.com/npryce/adr-tools)
 ### ref https://qiita.com/fuubit/items/dbb22435202acbe48849
 決定事項の経緯や背景を第三者が閲覧可能
 軽量なドキュメンテーション
