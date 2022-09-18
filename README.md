@@ -11,11 +11,11 @@
 adr new ADR導入の検討
 ```
 
-### Replacement
+### Replacement  ADR
 
-'''
+```
 adr new -s 1 ADRやめた
-'''
+```
 
 良いADRの特徴：
 ポイントインタイム(Point in Time)
