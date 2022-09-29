@@ -1,0 +1,14 @@
+name: test
+
+on:
+  push:
+    branches:
+      - '**'
+  workflow_dispatch:
+
+jobs:  
+  build:
+    runs-on: ubuntu-latest
+    steps:            
+      - name: Slack Notification
+        run: curl https://www.google.com/
