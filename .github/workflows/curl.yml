@@ -12,5 +12,5 @@ jobs:
     steps:            
       - name: Slack Notification
         run: |
-          ipconfig
+          curl globalip.me
           curl https://www.google.com/ 
