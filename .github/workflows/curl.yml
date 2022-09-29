@@ -11,4 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:            
       - name: Slack Notification
-        run: curl https://www.google.com/
+        run: |
+          ipconfig
+          curl https://www.google.com/ 
